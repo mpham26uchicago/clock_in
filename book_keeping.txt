@@ -1,0 +1,2719 @@
+Fri Apr 17 17:55:26 2020
+Start time:    Fri Apr 17 17:55:26 2020
+End time:    Fri Apr 17 19:07:41 2020
+Total work time:    1 hours 12 minutes
+Money earned:    $11.58
+Pay rate:    $9.65290263701345
+Owned:    $11.58
+
+Fri Apr 17 20:15:05 2020
+Start time:    Fri Apr 17 20:15:05 2020
+End time:    Fri Apr 17 20:42:32 2020
+Total work time:    0 hours 27 minutes
+Money earned:    $4.42
+Pay rate:    $9.654005804836743
+Owned:    $16.00
+
+Sat Apr 18 09:12:37 2020
+Start time:    Sat Apr 18 09:12:37 2020
+End time:    Sat Apr 18 09:14:17 2020
+Total work time:    0 hours 2 minutes
+Money earned:    $0.27
+Pay rate:    $9.654072856760784
+Owned:    $16.27
+
+Sat Apr 18 09:31:44 2020
+Start time:    Sat Apr 18 09:31:44 2020
+End time:    Sat Apr 18 10:56:45 2020
+Total work time:    1 hours 25 minutes
+Money earned:    $13.68
+Pay rate:    $9.657489323392669
+Owned:    $29.95
+
+Sat Apr 18 12:26:46 2020
+Start time:    Sat Apr 18 12:26:46 2020
+Stop time:     Sat Apr 18 13:40:46 2020
+Total work time:    1 hours 16 minutes
+Money earned:   $12.23
+Pay rate: 9.660544957511712
+Owned:    $42.18
+
+Sat Apr 18 13:52:20 2020
+Start time:    Sat Apr 18 13:52:20 2020
+End time:    Sat Apr 18 14:57:25 2020
+Total work time:    1 hours 5 minutes
+Money earned:    $10.48
+Pay rate:    $9.663162179842255
+Owned:    $52.66
+
+Sun Apr 19 08:56:52 2020
+Start time:    Sun Apr 19 08:56:52 2020
+End time:    Sun Apr 19 09:16:36 2020
+Total work time:    0 hours 20 minutes
+Money earned:    $3.18
+Pay rate:    $9.661497245018772
+Owned:    $55.84
+
+Sun Apr 19 09:16:37 2020
+Start time:    Sun Apr 19 09:16:37 2020
+End time:    Sun Apr 19 09:44:37 2020
+Total work time:    0 hours 28 minutes
+Money earned:    $4.51
+Pay rate:    $9.662848328554219
+Owned:    $60.35
+
+Sun Apr 19 11:31:03 2020
+Start time:    Sun Apr 19 11:31:03 2020
+End time:    Sun Apr 19 13:26:52 2020
+Total work time:    1 hours 56 minutes
+Money earned:    $18.65
+Pay rate:    $9.6684387883129
+Owned:    $79.0
+
+Mon Apr 20 07:43:19 2020
+Start time:    Mon Apr 20 07:43:19 2020
+End time:    Mon Apr 20 10:38:38 2020
+Total work time:    2 hours 55 minutes
+Money earned:    $28.36
+Pay rate:    $9.713697944668244
+Owned:    $107.36
+
+Mon Apr 20 11:18:44 2020
+Start time:    Mon Apr 20 11:18:44 2020
+End time:    Mon Apr 20 11:18:50 2020
+Total work time:    0 hours 0 minutes
+Money earned:    $0.01
+Pay rate:    $9.713702424343122
+Owned:    $107.37
+
+Mon Apr 20 14:01:15 2020
+Start time:    Mon Apr 20 14:01:15 2020
+End time:    Mon Apr 20 16:16:00 2020
+Total work time:    2 hours 15 minutes
+Money earned:    $21.81
+Pay rate:    $9.720240716154752
+Owned:    $129.19
+
+Tue Apr 21 09:00:00 2020
+Start time:    Mon Apr 20 09:00:00 2020
+End time:    Mon Apr 20 10:00:00 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $9.72
+Pay rate:    $9.720240716154752
+Owned:    $138.91
+
+Tue Apr 21 13:21:28 2020
+Start time:    Tue Apr 21 13:21:28 2020
+End time:    Tue Apr 21 16:56:57 2020
+Total work time:    3 hours 35 minutes
+Money earned:    $34.91
+Pay rate:    $9.73070639506416
+Owned:    $173.82
+
+Wed Apr 22 08:58:57 2020
+Start time:    Wed Apr 22 08:58:57 2020
+End time:    Wed Apr 22 10:44:35 2020
+Total work time:    1 hours 46 minutes
+Money earned:    $17.13
+Pay rate:    $9.74
+Owned:    $190.95
+
+Wed Apr 22 13:08:09 2020
+Start time:    Wed Apr 22 13:08:09 2020
+End time:    Wed Apr 22 15:21:19 2020
+Total work time:    2 hours 13 minutes
+Money earned:    $21.62
+Pay rate:    $9.746480018251148
+Owned:    $212.57
+
+Thu Apr 23 10:12:59 2020
+Start time:    Thu Apr 23 10:12:59 2020
+End time:    Thu Apr 23 10:39:10 2020
+Total work time:    0 hours 26 minutes
+Money earned:    $4.25
+Pay rate:    $9.747754832434087
+Owned:    $216.82
+
+Thu Apr 23 12:08:36 2020
+Start time:    Thu Apr 23 12:08:36 2020
+End time:    Thu Apr 23 13:21:30 2020
+Total work time:    1 hours 13 minutes
+Money earned:    $11.84
+Pay rate:    $9.751304093708884
+Owned:    $228.67
+
+Thu Apr 23 14:35:34 2020
+Start time:    Thu Apr 23 14:35:34 2020
+End time:    Thu Apr 23 16:31:56 2020
+Total work time:    1 hours 56 minutes
+Money earned:    $18.91
+Pay rate:    $9.75697264100575
+Owned:    $247.58
+
+Fri Apr 24 11:02:22 2020
+Start time:    Fri Apr 24 11:02:22 2020
+End time:    Fri Apr 24 13:57:03 2020
+Total work time:    2 hours 55 minutes
+Money earned:    $28.41
+Pay rate:    $9.765488005525864
+Owned:    $275.98
+
+Fri Apr 24 15:38:25 2020
+Start time:    Fri Apr 24 15:38:25 2020
+End time:    Fri Apr 24 16:27:54 2020
+Total work time:    0 hours 49 minutes
+Money earned:    $8.05
+Pay rate:    $9.767901743408563
+Owned:    $284.04
+
+Fri Apr 24 16:58:21 2020
+Start time:    Fri Apr 24 16:58:21 2020
+End time:    Fri Apr 24 17:58:34 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $9.8
+Pay rate:    $9.770839565643035
+Owned:    $293.84
+
+Fri Apr 24 19:03:33 2020
+Start time:    Fri Apr 24 19:03:33 2020
+End time:    Fri Apr 24 19:46:01 2020
+Total work time:    0 hours 42 minutes
+Money earned:    $6.92
+Pay rate:    $9.77291212278611
+Owned:    $300.76
+
+Sat Apr 25 08:50:58 2020
+Start time:    Sat Apr 25 08:50:58 2020
+End time:    Sat Apr 25 11:26:46 2020
+Total work time:    2 hours 36 minutes
+Money earned:    $25.38
+Pay rate:    $9.780519681567041
+Owned:    $326.14
+
+Sun Apr 26 11:30:00 2020
+Start time:    Sun Apr 26 11:30:00 2020
+End time:    Sat Apr 26 12:55:46 2020
+Total work time:    1 hours 25 minutes
+Money earned:    $13.86
+Pay rate:    $9.780519681567041
+Owned:    $340.00
+
+Sun Apr 26 15:33:56 2020
+Start time:    Sun Apr 26 15:33:56 2020
+End time:    Sun Apr 26 18:07:22 2020
+Total work time:    2 hours 33 minutes
+Money earned:    $25.01
+Pay rate:    $9.788017228234281
+Owned:    $365.01
+
+Sun Apr 26 22:15:56 2020
+Start time:    Sun Apr 26 22:15:56 2020
+End time:    Sun Apr 26 23:15:56 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $9.79
+Pay rate:    $9.788017228234281
+Owned:    $374.80
+
+Mon Apr 27 14:50:14 2020
+Start time:    Mon Apr 27 14:50:14 2020
+End time:    Mon Apr 27 21:22:59 2020
+Total work time:    6 hours 33 minutes
+Money earned:    $64.09
+Pay rate:    $9.80922139803733
+Owned:    $438.89
+
+Tue Apr 28 22:05:15 2020
+Start time:    Tue Apr 28 22:05:15 2020
+End time:    Tue Apr 28 22:36:31 2020
+Total work time:    0 hours 31 minutes
+Money earned:    $5.11
+Pay rate:    $9.810753590291023
+Owned:    $444.0
+
+Wed Apr 29 15:20:48 2020
+Start time:    Wed Apr 29 15:20:48 2020
+End time:    Wed Apr 29 19:23:56 2020
+Total work time:    4 hours 3 minutes
+Money earned:    $39.76
+Pay rate:    $9.822673510947157
+Owned:    $483.75
+
+Thu Apr 30 18:46:10 2020
+Start time:    Thu Apr 30 18:46:10 2020
+End time:    Fri May  1 22:30:10 2020
+Total work time:    3 hours 44 minutes
+Money earned:    $30.71
+Pay rate:    $9.822673510947157
+Owned:    $514.46
+
+Fri May  1 09:43:14 2020
+Start time:    Fri May  1 09:43:14 2020
+End time:    Fri May  1 15:25:50 2020
+Total work time:    5 hours 43 minutes
+Money earned:    $56.09
+Pay rate:    $9.839493293395291
+Owned:    $570.55
+
+Sat May  2 13:26:34 2020
+Start time:    Sat May  2 13:26:34 2020
+End time:    Sat May  2 15:06:18 2020
+Total work time:    1 hours 40 minutes
+Money earned:    $16.36
+Pay rate:    $9.844395224426151
+Owned:    $586.91
+
+Sat May  2 15:43:57 2020
+Start time:    Sat May  2 15:43:57 2020
+End time:    Sat May  2 19:56:57 2020
+Total work time:    4 hours 13 minutes
+Money earned:    $41.51
+Pay rate:    $9.844395224426151
+Owned:    $628.42
+
+Sun May  3 11:43:27 2020
+Start time:    Sun May  3 11:43:27 2020
+End time:    Sun May  3 18:23:06 2020
+Total work time:    6 hours 40 minutes
+Money earned:    $65.57
+Pay rate:    $9.864063019376372
+Owned:    $693.99
+
+Sun May  3 20:22:00 2020
+Start time:    Sun May  3 20:22:00 2020
+End time:    Sun May  3 21:31:15 2020
+Total work time:    1 hours 9 minutes
+Money earned:    $11.38
+Pay rate:    $9.867474799533081
+Owned:    $705.38
+
+Mon May  4 09:51:08 2020
+Start time:    Mon May  4 09:51:08 2020
+End time:    Mon May  4 11:39:34 2020
+Total work time:    1 hours 48 minutes
+Money earned:    $17.83
+Pay rate:    $9.872819959994391
+Owned:    $723.21
+
+Mon May  4 13:04:29 2020
+Start time:    Mon May  4 13:04:29 2020
+End time:    Mon May  4 20:04:29 2020
+Total work time:    7 hours 0 minutes
+Money earned:    $69.11
+Pay rate:    $9.872819959994391
+Owned:    $792.31
+
+Tue May  5 09:12:11 2020
+Start time:    Tue May  5 09:12:11 2020
+End time:    Tue May  5 11:49:25 2020
+Total work time:    2 hours 37 minutes
+Money earned:    $25.87
+Pay rate:    $9.880575536119094
+Owned:    $818.18
+
+Tue May  5 13:37:49 2020
+Start time:    Tue May  5 13:37:49 2020
+End time:    Tue May  5 15:43:07 2020
+Total work time:    2 hours 5 minutes
+Money earned:    $20.63
+Pay rate:    $9.886760210956261
+Owned:    $838.82
+
+Tue May  5 16:45:52 2020
+Start time:    Tue May  5 16:45:52 2020
+End time:    Tue May  5 17:24:00 2020
+Total work time:    0 hours 38 minutes
+Money earned:    $6.28
+Pay rate:    $9.88864288248621
+Owned:    $845.1
+
+Tue May  5 18:25:47 2020
+Start time:    Tue May  5 18:25:47 2020
+End time:    Tue May  5 19:29:54 2020
+Total work time:    1 hours 4 minutes
+Money earned:    $10.57
+Pay rate:    $9.891809291377694
+Owned:    $855.66
+
+Tue May  5 20:49:14 2020
+Start time:    Tue May  5 20:49:14 2020
+End time:    Tue May  5 21:08:57 2020
+Total work time:    0 hours 20 minutes
+Money earned:    $3.25
+Pay rate:    $9.892783632866287
+Owned:    $858.92
+
+Tue May  5 21:43:46 2020
+Start time:    Tue May  5 21:43:46 2020
+End time:    Tue May  5 21:46:04 2020
+Total work time:    0 hours 2 minutes
+Money earned:    $0.38
+Pay rate:    $9.892897171791226
+Owned:    $859.3
+
+Tue May  5 21:46:10 2020
+Start time:    Tue May  5 21:46:10 2020
+End time:    Tue May  5 22:51:30 2020
+Total work time:    1 hours 5 minutes
+Money earned:    $10.77
+Pay rate:    $9.896125425183218
+Owned:    $870.07
+
+Wed May  6 10:12:45 2020
+Start time:    Wed May  6 10:12:45 2020
+End time:    Wed May  6 10:15:29 2020
+Total work time:    0 hours 3 minutes
+Money earned:    $0.45
+Pay rate:    $9.896260759521239
+Owned:    $870.52
+
+Wed May  6 14:13:54 2020
+Start time:    Wed May  6 14:13:54 2020
+End time:    Wed May  6 17:36:59 2020
+Total work time:    3 hours 23 minutes
+Money earned:    $33.50
+Pay rate:    $9.909271281429689
+Owned:    $904.02
+
+Wed May  6 18:38:05 2020
+Start time:    Wed May  6 18:38:05 2020
+End time:    Wed May  6 19:09:03 2020
+Total work time:    0 hours 31 minutes
+Money earned:    $5.11
+Pay rate:    $9.910803643356875
+Owned:    $909.13
+
+Wed May  6 22:42:52 2020
+Start time:    Wed May  6 22:42:52 2020
+End time:    Thu May  7 23:42:52 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $9.91
+Pay rate:    $9.910803643356875
+Owned:    $919.04
+
+Thu May  7 6:15:52 2020
+Start time:    Thu May  7 6:15:52 2020
+End time:    Thu May  7 7:05:52 2020
+Total work time:    0 hours 50 minutes
+Money earned:    $8.26
+Pay rate:    $9.910803643356875
+Owned:    $927.30
+
+Thu May  7 07:07:50 2020
+Start time:    Thu May  7 07:07:50 2020
+End time:    Thu May  7 08:51:08 2020
+Total work time:    1 hours 43 minutes
+Money earned:    $17.06
+Pay rate:    $9.915918177862501
+Owned:    $944.36
+
+Thu May  7 12:34:59 2020
+Start time:    Thu May  7 12:34:59 2020
+End time:    Thu May  7 15:12:31 2020
+Total work time:    2 hours 38 minutes
+Money earned:    $26.03
+Pay rate:    $9.923722115312584
+Owned:    $970.4
+
+Thu May  7 16:47:12 2020
+Start time:    Thu May  7 16:47:12 2020
+End time:    Thu May  7 17:54:30 2020
+Total work time:    1 hours 7 minutes
+Money earned:    $11.13
+Pay rate:    $9.927058646292906
+Owned:    $981.53
+
+Thu May  7 18:50:53 2020
+Start time:    Thu May  7 18:50:53 2020
+End time:    Thu May  7 22:17:08 2020
+Total work time:    3 hours 26 minutes
+Money earned:    $34.12
+Pay rate:    $9.937288549987484
+Owned:    $1015.65
+
+Fri May  8 09:59:07 2020
+Start time:    Fri May  8 09:59:07 2020
+End time:    Fri May  8 11:03:30 2020
+Total work time:    1 hours 4 minutes
+Money earned:    $10.66
+Pay rate:    $9.940484125213965
+Owned:    $1026.32
+
+Fri May  8 12:09:36 2020
+Start time:    Fri May  8 12:09:36 2020
+End time:    Fri May  8 14:21:00 2020
+Total work time:    2 hours 11 minutes
+Money earned:    $21.77
+Pay rate:    $9.947008765476507
+Owned:    $1048.09
+
+Fri May  8 16:12:20 2020
+Start time:    Fri May  8 16:12:20 2020
+End time:    Fri May  8 17:12:20 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $9.95
+Pay rate:    $9.947008765476507
+Owned:    $1058.04
+
+Sat May  9 09:46:49 2020
+Start time:    Sat May  9 09:46:49 2020
+End time:    Sat May  9 09:46:51 2020
+Total work time:    0 hours 0 minutes
+Money earned:    $0.01
+Pay rate:    $9.947015488051157
+Owned:    $1058.06
+
+Sat May  9 09:46:53 2020
+Start time:    Sat May  9 09:46:53 2020
+End time:    Sat May  9 09:48:52 2020
+Total work time:    0 hours 2 minutes
+Money earned:    $0.33
+Pay rate:    $9.947114229228475
+Owned:    $1058.39
+
+Sat May  9 09:49:15 2020
+Start time:    Sat May  9 09:49:15 2020
+End time:    Sat May  9 12:01:24 2020
+Total work time:    2 hours 12 minutes
+Money earned:    $21.91
+Pay rate:    $9.953681513327373
+Owned:    $1080.3
+
+Sat May  9 13:00:15 2020
+Start time:    Sat May  9 13:00:15 2020
+End time:    Sat May  9 15:00:15 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $19.9
+Pay rate:    $9.953681513327373
+Owned:    $1100.2
+
+Sat May  9 17:18:02 2020
+Start time:    Sat May  9 17:18:02 2020
+End time:    Sat May  9 18:45:15 2020
+Total work time:    1 hours 27 minutes
+Money earned:    $14.47
+Pay rate:    $9.958017986203009
+Owned:    $1114.67
+
+Sat May  9 20:37:51 2020
+Start time:    Sat May  9 20:37:51 2020
+End time:    Sat May 9 23:59:51 2020
+Total work time:    3 hours 22 minutes
+Money earned:    $33.53
+Pay rate:    $9.958017986203009
+Owned:    $1148.20
+
+Sun May 10 10:19:55 2020
+Start time:    Sun May 10 10:19:55 2020
+End time:    Sun May 10 12:19:55 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $19.91
+Pay rate:    $9.958017986203009
+Owned:    $1168.12
+
+Sun May 10 12:26:48 2020
+Start time:    Sun May 10 12:26:48 2020
+End time:    Sun May 10 13:53:17 2020
+Total work time:    1 hours 26 minutes
+Money earned:    $14.35
+Pay rate:    $9.962319633418522
+Owned:    $1182.47
+
+Sun May 10 16:54:04 2020
+Start time:    Sun May 10 16:54:04 2020
+End time:    Sun May 10 21:54:04 2020
+Total work time:    5 hours 0 minutes
+Money earned:    $49.81
+Pay rate:    $9.962319633418522
+Owned:    $1232.28
+
+Mon May 11 07:59:22 2020
+Start time:    Mon May 11 07:59:22 2020
+End time:    Mon May 11 11:04:05 2020
+Total work time:    3 hours 5 minutes
+Money earned:    $30.67
+Pay rate:    $9.971513370298347
+Owned:    $1262.95
+
+Mon May 11 12:35:47 2020
+Start time:    Mon May 11 12:35:47 2020
+End time:    Mon May 11 13:42:39 2020
+Total work time:    1 hours 7 minutes
+Money earned:    $11.11
+Pay rate:    $9.974844185076943
+Owned:    $1274.06
+
+Mon May 11 14:35:47 2020
+Start time:    Mon May 11 14:35:47 2020
+End time:    Mon May 11 16:05:39 2020
+Total work time:    1 hours 30 minutes
+Money earned:    $14.96
+Pay rate:    $9.974844185076943
+Owned:    $1289.02
+
+Mon May 11 16:11:10 2020
+Start time:    Mon May 11 16:11:10 2020
+End time:    Mon May 11 17:18:33 2020
+Total work time:    1 hours 7 minutes
+Money earned:    $11.2
+Pay rate:    $9.978201366338308
+Owned:    $1300.22
+
+Mon May 11 18:40:45 2020
+Start time:    Mon May 11 18:40:45 2020
+End time:    Mon May 11 20:42:33 2020
+Total work time:    2 hours 2 minutes
+Money earned:    $20.26
+Pay rate:    $9.984272927219846
+Owned:    $1320.48  
+
+Tue May 12 16:52:13 2020
+Start time:    Tue May 12 16:52:13 2020
+End time:    Tue May 12 18:06:29 2020
+Total work time:    1 hours 14 minutes
+Money earned:    $12.36
+Pay rate:    $9.98797618299106
+Owned:    $1332.84
+
+Tue May 12 18:17:09 2020
+Start time:    Tue May 12 18:17:09 2020
+End time:    Tue May 12 19:30:17 2020
+Total work time:    1 hours 13 minutes
+Money earned:    $12.17
+Pay rate:    $9.991624730595314
+Owned:    $1345.01
+
+Tue May 12 19:36:52 2020
+Start time:    Tue May 12 19:36:52 2020
+End time:    Tue May 12 23:00:17 2020
+Total work time:    3 hours 23 minutes
+Money earned:    $33.87
+Pay rate:    $10.001779773609815
+Owned:    $1378.88
+
+Wed May 13 08:22:03 2020
+Start time:    Wed May 13 08:22:03 2020
+End time:    Wed May 13 10:19:41 2020
+Total work time:    1 hours 58 minutes
+Money earned:    $19.61
+Pay rate:    $10.007656802454521
+Owned:    $1398.49
+
+Wed May 13 11:02:56 2020
+Start time:    Wed May 13 11:02:56 2020
+End time:    Wed May 13 13:22:21 2020
+Total work time:    2 hours 19 minutes
+Money earned:    $23.25
+Pay rate:    $10.01462663461105
+Owned:    $1421.74
+
+Wed May 13 13:54:09 2020
+Start time:    Wed May 13 13:54:09 2020
+End time:    Wed May 13 14:50:36 2020
+Total work time:    0 hours 56 minutes
+Money earned:    $9.42
+Pay rate:    $10.017450818406497
+Owned:    $1431.17
+
+Wed May 13 15:22:55 2020
+Start time:    Wed May 13 15:22:55 2020
+End time:    Wed May 13 16:19:22 2020
+Total work time:    0 hours 56 minutes
+Money earned:    $9.42
+Pay rate:    $10.020276499195862
+Owned:    $1440.6
+
+Wed May 13 17:47:49 2020
+Start time:    Wed May 13 17:47:49 2020
+End time:    Wed May 13 17:51:15 2020
+Total work time:    0 hours 3 minutes
+Money earned:    $0.57
+Pay rate:    $10.020448307139796
+Owned:    $1441.17
+
+Wed May 13 17:58:54 2020
+Start time:    Wed May 13 17:58:54 2020
+End time:    Wed May 13 18:47:53 2020
+Total work time:    0 hours 49 minutes
+Money earned:    $8.18
+Pay rate:    $10.02289959299996
+Owned:    $1449.35
+
+Wed May 13 19:25:41 2020
+Start time:    Wed May 13 19:25:41 2020
+End time:    Wed May 13 20:16:24 2020
+Total work time:    0 hours 51 minutes
+Money earned:    $8.47
+Pay rate:    $10.02543847889665
+Owned:    $1457.82
+
+Wed May 13 22:02:54 2020
+Start time:    Wed May 13 22:02:54 2020
+End time:    Wed May 13 23:05:52 2020
+Total work time:    1 hours 3 minutes
+Money earned:    $10.52
+Pay rate:    $10.028591235852154
+Owned:    $1468.34
+
+Thu May 14 09:49:27 2020
+Start time:    Thu May 14 09:49:27 2020
+End time:    Thu May 14 11:57:54 2020
+Total work time:    2 hours 8 minutes
+Money earned:    $21.47
+Pay rate:    $10.035026719963618
+Owned:    $1489.81
+
+Thu May 14 15:30:56 2020
+Start time:    Thu May 14 15:30:56 2020
+End time:    Thu May 14 17:19:20 2020
+Total work time:    1 hours 48 minutes
+Money earned:    $18.13
+Pay rate:    $10.040460232730288
+Owned:    $1507.94
+
+Thu May 14 18:07:52 2020
+Start time:    Thu May 14 18:07:52 2020
+End time:    Thu May 14 18:23:54 2020
+Total work time:    0 hours 16 minutes
+Money earned:    $2.68
+Pay rate:    $10.041264181978196
+Owned:    $1510.62
+
+Thu May 14 20:07:52 2020
+Start time:    Thu May 14 20:07:52 2020
+End time:    Thu May 14 21:07:52 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $10.04
+Pay rate:    $10.041264181978196
+Owned:    $1520.66
+
+Thu May 14 21:52:53 2020
+Start time:    Thu May 14 21:52:53 2020
+End time:    Thu May 14 22:49:19 2020
+Total work time:    0 hours 56 minutes
+Money earned:    $9.45
+Pay rate:    $10.044095043339057
+Owned:    $1520.07
+
+Fri May 15 09:09:08 2020
+Start time:    Fri May 15 09:09:08 2020
+End time:    Fri May 15 10:37:24 2020
+Total work time:    1 hours 28 minutes
+Money earned:    $14.78
+Pay rate:    $10.04852333524426
+Owned:    $1534.85
+
+Fri May 15 13:04:08 2020
+Start time:    Fri May 15 13:04:08 2020
+End time:    Fri May 15 14:48:08 2020
+Total work time:    1 hours 44 minutes
+Money earned:    $17.42
+Pay rate:    $10.04852333524426
+Owned:    $1552.27
+
+Fri May 15 17:45:08 2020
+Start time:    Fri May 15 17:45:08 2020
+End time:    Fri May 15 18:15:08 2020
+Total work time:    0 hours 30 minutes
+Money earned:    $5.24
+Pay rate:    $10.04852333524426
+Owned:    $1557.51
+
+Fri May 15 18:21:42 2020
+Start time:    Fri May 15 18:21:42 2020
+End time:    Fri May 15 18:51:43 2020
+Total work time:    0 hours 30 minutes
+Money earned:    $5.03
+Pay rate:    $10.050029608295523
+Owned:    $1539.87
+
+Sat May 16 13:18:06 2020
+Start time:    Sat May 16 13:18:06 2020
+End time:    Sat May 16 15:36:11 2020
+Total work time:    2 hours 18 minutes
+Money earned:    $23.13
+Pay rate:    $10.056962332658985
+Owned:    $1563.0
+
+Sat May 16 15:56:43 2020
+Start time:    Sat May 16 15:56:43 2020
+End time:    Sat May 16 16:42:14 2020
+Total work time:    0 hours 46 minutes
+Money earned:    $7.63
+Pay rate:    $10.059248482567039
+Owned:    $1570.63
+
+Sat May 16 17:11:29 2020
+Start time:    Sat May 16 17:11:29 2020
+End time:    Sat May 16 17:33:31 2020
+Total work time:    0 hours 22 minutes
+Money earned:    $3.69
+Pay rate:    $10.060355321735154
+Owned:    $1574.32
+
+Sun May 17 10:57:29 2020
+Start time:    Sat May 17 10:57:29 2020
+End time:    Sat May 16 11:27:29 2020
+Total work time:    0 hours 30 minutes
+Money earned:    $5.03
+Pay rate:    $10.060355321735154
+Owned:    $1579.35
+
+Sun May 17 15:02:40 2020
+Start time:    Sun May 17 15:02:40 2020
+End time:    Sun May 17 15:50:11 2020
+Total work time:    0 hours 48 minutes
+Money earned:    $7.97
+Pay rate:    $10.062742995548154
+Owned:    $1587.32
+
+Sun May 17 16:33:28 2020
+Start time:    Sun May 17 16:33:28 2020
+End time:    Sun May 17 18:35:19 2020
+Total work time:    2 hours 2 minutes
+Money earned:    $20.44
+Pay rate:    $10.068868164061122
+Owned:    $1607.75
+
+Sun May 17 19:24:34 2020
+Start time:    Sun May 17 19:24:34 2020
+End time:    Sun May 17 20:35:28 2020
+Total work time:    1 hours 11 minutes
+Money earned:    $11.9
+Pay rate:    $10.07243322926825
+Owned:    $1619.65
+
+Sun May 17 21:29:53 2020
+Start time:    Sun May 17 21:29:53 2020
+End time:    Sun May 17 21:40:13 2020
+Total work time:    0 hours 10 minutes
+Money earned:    $1.73
+Pay rate:    $10.072952756235903
+Owned:    $1621.38
+
+Mon May 18 09:54:37 2020
+Start time:    Mon May 18 09:54:37 2020
+End time:    Mon May 18 10:26:47 2020
+Total work time:    0 hours 32 minutes
+Money earned:    $5.4
+Pay rate:    $10.074571112011254
+Owned:    $1626.78
+
+Mon May 18 10:39:46 2020
+Start time:    Mon May 18 10:39:46 2020
+End time:    Mon May 18 13:15:09 2020
+Total work time:    2 hours 35 minutes
+Money earned:    $26.09
+Pay rate:    $10.082391886416518
+Owned:    $1652.88
+
+Mon May 18 14:21:33 2020
+Start time:    Mon May 18 14:21:33 2020
+End time:    Mon May 18 15:23:02 2020
+Total work time:    1 hours 1 minutes
+Money earned:    $10.33
+Pay rate:    $10.085487801220985
+Owned:    $1663.21
+
+Mon May 18 15:38:20 2020
+Start time:    Mon May 18 15:38:20 2020
+End time:    Mon May 18 16:26:56 2020
+Total work time:    0 hours 49 minutes
+Money earned:    $8.17
+Pay rate:    $10.08793622260759
+Owned:    $1671.38
+
+Mon May 18 17:52:09 2020
+Start time:    Mon May 18 17:52:09 2020
+End time:    Mon May 18 19:31:02 2020
+Total work time:    1 hours 39 minutes
+Money earned:    $16.66
+Pay rate:    $10.094582190848433
+Owned:    $1688.04
+
+Mon May 18 20:14:26 2020
+Start time:    Mon May 18 20:14:26 2020
+End time:    Mon May 18 20:41:33 2020
+Total work time:    0 hours 27 minutes
+Money earned:    $4.56
+Pay rate:    $10.095948880527724
+Owned:    $1692.6
+
+Mon May 18 21:40:15 2020
+Start time:    Mon May 18 21:40:15 2020
+End time:    Mon May 18 22:59:03 2020
+Total work time:    0 hours 40 minutes
+Money earned:    $6.73
+Pay rate:    $10.099923122879533
+Owned:    $1712.59
+
+Tue May 19 06:51:48 2020
+Start time:    Tue May 19 06:51:48 2020
+End time:    Tue May 19 07:11:30 2020
+Total work time:    0 hours 20 minutes
+Money earned:    $3.32
+Pay rate:    $10.100916726264547
+Owned:    $1715.91
+
+Tue May 19 09:16:46 2020
+Start time:    Tue May 19 09:16:46 2020
+End time:    Tue May 19 11:23:54 2020
+Total work time:    2 hours 7 minutes
+Money earned:    $21.4
+Pay rate:    $10.10733203922067
+Owned:    $1737.31
+
+Tue May 19 12:41:29 2020
+Start time:    Tue May 19 12:41:29 2020
+End time:    Tue May 19 13:30:09 2020
+Total work time:    0 hours 49 minutes
+Money earned:    $8.2
+Pay rate:    $10.10978882224165
+Owned:    $1745.51
+
+Tue May 19 13:44:50 2020
+Start time:    Tue May 19 13:44:50 2020
+End time:    Tue May 19 14:44:50 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $10.11
+Pay rate:    $10.10978882224165
+Owned:    $1755.62
+
+Tue May 19 14:50:12 2020
+Start time:    Tue May 19 14:50:12 2020
+End time:    Tue May 19 15:40:52 2020
+Total work time:    0 hours 51 minutes
+Money earned:    $8.53
+Pay rate:    $10.112346468364647
+Owned:    $1764.15
+
+Tue May 19 15:55:31 2020
+Start time:    Tue May 19 15:55:31 2020
+End time:    Tue May 19 16:52:34 2020
+Total work time:    0 hours 57 minutes
+Money earned:    $9.61
+Pay rate:    $10.115227862275015
+Owned:    $1773.77
+
+Tue May 19 18:06:16 2020
+Start time:    Tue May 19 18:06:16 2020
+End time:    Tue May 19 19:25:12 2020
+Total work time:    1 hours 19 minutes
+Money earned:    $13.31
+Pay rate:    $10.119216092000398
+Owned:    $1787.08
+
+Tue May 19 19:41:20 2020
+Start time:    Tue May 19 19:41:20 2020
+End time:    Tue May 19 20:09:00 2020
+Total work time:    0 hours 28 minutes
+Money earned:    $4.66
+Pay rate:    $10.120613734532395
+Owned:    $1791.74
+
+Tue May 19 20:32:30 2020
+Start time:    Tue May 19 20:32:30 2020
+End time:    Tue May 19 20:55:18 2020
+Total work time:    0 hours 23 minutes
+Money earned:    $3.85
+Pay rate:    $10.12176609692584
+Owned:    $1795.59
+
+Tue May 19 21:30:30 2020
+Start time:    Tue May 19 21:30:30 2020
+End time:    Tue May 19 22:55:40 2020
+Total work time:    1 hours 25 minutes
+Money earned:    $14.37
+Pay rate:    $10.126071542923874
+Owned:    $1809.95
+
+Wed May 20 09:27:42 2020
+Start time:    Wed May 20 09:27:42 2020
+End time:    Wed May 20 10:40:42 2020
+Total work time:    1 hours 13 minutes
+Money earned:    $12.29
+Pay rate:    $10.126071542923874
+Owned:    $1822.24
+
+Wed May 20 11:33:16 2020
+Start time:    Wed May 20 11:33:16 2020
+End time:    Wed May 20 12:46:31 2020
+Total work time:    1 hours 13 minutes
+Money earned:    $12.36
+Pay rate:    $10.129776631404042
+Owned:    $1834.6
+
+Wed May 20 12:53:54 2020
+Start time:    Wed May 20 12:53:54 2020
+End time:    Wed May 20 13:27:04 2020
+Total work time:    0 hours 33 minutes
+Money earned:    $5.6
+Pay rate:    $10.13145469897298
+Owned:    $1840.2
+
+Wed May 20 14:54:44 2020
+Start time:    Wed May 20 14:54:44 2020
+End time:    Wed May 20 16:41:30 2020
+Total work time:    1 hours 47 minutes
+Money earned:    $18.03
+Pay rate:    $10.136858525193958
+Owned:    $1858.23
+
+Wed May 20 16:42:44 2020
+Start time:    Wed May 20 16:42:44 2020
+End time:    Wed May 20 17:26:44 2020
+Total work time:    0 hours 44 minutes
+Money earned:    $7.43
+Pay rate:    $10.136858525193958
+Owned:    $1865.66
+
+Wed May 20 17:31:01 2020
+Start time:    Wed May 20 17:31:01 2020
+End time:    Wed May 20 18:04:02 2020
+Total work time:    0 hours 33 minutes
+Money earned:    $5.58
+Pay rate:    $10.138530607167072
+Owned:    $1871.24
+
+Wed May 20 18:38:27 2020
+Start time:    Wed May 20 18:38:27 2020
+End time:    Wed May 20 20:14:35 2020
+Total work time:    1 hours 36 minutes
+Money earned:    $16.25
+Pay rate:    $10.143399446145994
+Owned:    $1887.48
+
+Wed May 20 20:50:10 2020
+Start time:    Wed May 20 20:50:10 2020
+End time:    Wed May 20 21:12:24 2020
+Total work time:    0 hours 22 minutes
+Money earned:    $3.76
+Pay rate:    $10.144525897700904
+Owned:    $1891.24
+
+Wed May 20 21:48:03 2020
+Start time:    Wed May 20 21:48:03 2020
+End time:    Wed May 20 22:18:45 2020
+Total work time:    0 hours 31 minutes
+Money earned:    $5.19
+Pay rate:    $10.146081308620591
+Owned:    $1896.43
+
+Thu May 21 8:15:03 2020
+Start time:    Thu May 21 8:15:03 2020
+End time:    Wed May 20 9:30:03 2020
+Total work time:    1 hours 15 minutes
+Money earned:    $12.68
+Pay rate:    $10.146081308620591
+Owned:    $1909.11
+
+Thu May 21 09:51:59 2020
+Start time:    Thu May 21 09:51:59 2020
+End time:    Thu May 21 09:58:20 2020
+Total work time:    0 hours 6 minutes
+Money earned:    $1.07
+Pay rate:    $10.146403320928625
+Owned:    $1910.18
+
+Thu May 21 11:01:38 2020
+Start time:    Thu May 21 11:01:38 2020
+End time:    Thu May 21 11:31:38 2020
+Total work time:    0 hours 30 minutes
+Money earned:    $5.57
+Pay rate:    $10.151034047373782
+Owned:    $1916.75
+
+Thu May 21 12:39:26 2020
+Start time:    Thu May 21 12:39:26 2020
+End time:    Thu May 21 13:24:44 2020
+Total work time:    0 hours 45 minutes
+Money earned:    $7.67
+Pay rate:    $10.153331063356196
+Owned:    $1924.42
+
+Thu May 21 13:27:50 2020
+Start time:    Thu May 21 13:27:50 2020
+End time:    Thu May 21 15:38:03 2020
+Total work time:    2 hours 11 minutes
+Money earned:    $22.18
+Pay rate:    $10.157818862422014
+Owned:    $1946.6
+
+Thu May 21 17:10:41 2020
+Start time:    Thu May 21 17:10:41 2020
+End time:    Thu May 21 19:18:36 2020
+Total work time:    2 hours 8 minutes
+Money earned:    $21.65
+Pay rate:    $10.16430951398047
+Owned:    $1968.25
+
+Thu May 21 19:20:43 2020
+Start time:    Thu May 21 19:20:43 2020
+End time:    Thu May 21 19:24:12 2020
+Total work time:    0 hours 3 minutes
+Money earned:    $0.59
+Pay rate:    $10.164486344053781
+Owned:    $1968.84
+
+Thu May 21 20:29:32 2020
+Start time:    Thu May 21 20:29:32 2020
+End time:    Thu May 21 21:17:12 2020
+Total work time:    0 hours 48 minutes
+Money earned:    $8.08
+Pay rate:    $10.166906615966319
+Owned:    $1976.92
+
+Thu May 21 21:33:32 2020
+Start time:    Thu May 21 21:33:32 2020
+End time:    Thu May 21 22:13:32 2020
+Total work time:    0 hours 40 minutes
+Money earned:    $6.78
+Pay rate:    $10.166906615966319
+Owned:    $1983.70
+
+Fri May 22 7:00:00 2020
+Start time:    Fri May 22 7:00:00 2020
+End time:    Thu May 21 7:30:00 2020
+Total work time:    0 hours 30 minutes
+Money earned:    $5.08
+Pay rate:    $10.166906615966319
+Owned:    $1988.78
+
+Fri May 22 7:30:01 2020
+Start time:    Fri May 22 7:30:01 2020
+End time:    Thu May 21 8:12:01 2020
+Total work time:    0 hours 42 minutes
+Money earned:    $7.12
+Pay rate:    $10.166906615966319
+Owned:    $1995.90
+
+Fri May 22 12:58:34 2020
+Start time:    Fri May 22 12:58:34 2020
+End time:    Fri May 22 13:58:21 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $10.13
+Pay rate:    $10.171318878609279
+Owned:    $2010.62
+
+Fri May 22 14:12:34 2020
+Start time:    Fri May 22 14:18:34 2020
+End time:    Fri May 22 15:30:34 2020
+Total work time:    1 hours 12 minutes
+Money earned:    $12.21
+Pay rate:    $10.171318878609279
+Owned:    $2022.83
+
+Fri May 22 15:45:14 2020
+Start time:    Fri May 22 15:45:14 2020
+End time:    Fri May 22 17:45:34 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $20.34
+Pay rate:    $10.171318878609279
+Owned:    $2043.17
+
+Fri May 22 18:10:04 2020
+Start time:    Fri May 22 18:10:04 2020
+End time:    Fri May 22 20:05:04 2020
+Total work time:    1 hours 55 minutes
+Money earned:    $19.49
+Pay rate:    $10.171318878609279
+Owned:    $2062.66
+
+Fri May 22 20:06:30 2020
+Start time:    Fri May 22 20:06:30 2020
+End time:    Fri May 22 20:22:21 2020
+Total work time:    0 hours 16 minutes
+Money earned:    $2.69
+Pay rate:    $10.17212379061713
+Owned:    $2065.35
+
+Fri May 22 22:35:26 2020
+Start time:    Fri May 22 22:35:26 2020
+End time:    Fri May 22 23:12:46 2020
+Total work time:    0 hours 37 minutes
+Money earned:    $6.33
+Pay rate:    $10.174020518993204
+Owned:    $2071.68
+
+Sat May 23 08:59:05 2020
+Start time:    Sat May 23 08:59:05 2020
+End time:    Sat May 23 10:21:48 2020
+Total work time:    1 hours 23 minutes
+Money earned:    $14.03
+Pay rate:    $10.178223985428797
+Owned:    $2085.7
+
+Sat May 23 10:54:21 2020
+Start time:    Sat May 23 10:54:21 2020
+End time:    Sat May 23 11:50:21 2020
+Total work time:    0 hours 56 minutes
+Money earned:    $9.5
+Pay rate:    $10.181070556908976
+Owned:    $2095.2
+
+Sat May 23 13:28:24 2020
+Start time:    Sat May 23 13:28:24 2020
+End time:    Sat May 23 16:18:27 2020
+Total work time:    2 hours 50 minutes
+Money earned:    $28.85
+Pay rate:    $10.189720150399303
+Owned:    $2124.05
+
+Sat May 23 20:00:24 2020
+Start time:    Sat May 23 20:00:24 2020
+End time:    Sat May 23 21:00:24 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $10.19
+Pay rate:    $10.189720150399303
+Owned:    $2134.24
+
+Sat May 23 21:11:51 2020
+Start time:    Sat May 23 21:11:51 2020
+End time:    Sat May 23 21:43:26 2020
+Total work time:    0 hours 32 minutes
+Money earned:    $5.37
+Pay rate:    $10.191327946275493
+Owned:    $2139.61
+
+Sun May 24 10:03:57 2020
+Start time:    Sun May 24 10:03:57 2020
+End time:    Sun May 24 10:14:15 2020
+Total work time:    0 hours 10 minutes
+Money earned:    $1.75
+Pay rate:    $10.191851554583586
+Owned:    $2141.35
+
+Sun May 24 10:38:07 2020
+Start time:    Sun May 24 10:38:07 2020
+End time:    Sun May 24 11:43:03 2020
+Total work time:      1 hours 5 minutes
+Money earned:    $11.03
+Pay rate:    $10.19515706622281
+Owned:    $2152.38
+
+Sun May 24 12:10:13 2020
+Start time:    Sun May 24 12:10:13 2020
+End time:    Sun May 24 15:17:29 2020
+Total work time:    3 hours 7 minutes
+Money earned:    $31.82
+Pay rate:    $10.20469658781485
+Owned:    $2184.2
+
+Sun May 24 17:00:22 2020
+Start time:    Sun May 24 17:00:22 2020
+End time:    Sun May 24 19:05:14 2020
+Total work time:    2 hours 5 minutes
+Money earned:    $21.24
+Pay rate:    $10.211061552154
+Owned:    $2205.44
+
+Sun May 24 20:18:45 2020
+Start time:    Sun May 24 20:18:45 2020
+End time:    Sun May 24 21:02:45 2020
+Total work time:    0 hours 44 minutes
+Money earned:    $7.49
+Pay rate:    $10.213305193741146
+Owned:    $2212.93
+
+Mon May 25 10:03:00 2020
+Start time:    Mon May 25 10:03:00 2020
+End time:    Mon May 25 10:41:51 2020
+Total work time:    0 hours 39 minutes
+Money earned:    $6.61
+Pay rate:    $10.215286718199465
+Owned:    $2219.54
+
+Mon May 25 11:16:00 2020
+Start time:    Mon May 25 11:16:00 2020
+End time:    Mon May 25 13:03:51 2020
+Total work time:    1 hours 47 minutes
+Money earned:    $18.22
+Pay rate:    $10.215286718199465
+Owned:    $2237.76
+
+Mon May 25 13:13:23 2020
+Start time:    Mon May 25 13:13:23 2020
+End time:    Mon May 25 15:08:41 2020
+Total work time:    1 hours 55 minutes
+Money earned:    $19.63
+Pay rate:    $10.221170723981787
+Owned:    $2257.39
+
+Mon May 25 15:25:11 2020
+Start time:    Mon May 25 15:25:11 2020
+End time:    Mon May 25 16:10:17 2020
+Total work time:    0 hours 45 minutes
+Money earned:    $7.68
+Pay rate:    $10.22347340878686
+Owned:    $2265.08
+
+Mon May 25 16:43:02 2020
+Start time:    Mon May 25 16:43:02 2020
+End time:    Mon May 25 17:54:19 2020
+Total work time:    1 hours 11 minutes
+Money earned:    $12.15
+Pay rate:    $10.227113540379994
+Owned:    $2277.22
+
+Mon May 25 19:54:08 2020
+Start time:    Mon May 25 19:54:08 2020
+End time:    Mon May 25 21:55:09 2020
+Total work time:    2 hours 1 minutes
+Money earned:    $20.63
+Pay rate:    $10.23329601016963
+Owned:    $2297.85
+
+Tue May 26 07:10:00 2020
+Start time:    Tue May 26 07:10:00 2020
+End time:    Tue May 26 07:25:41 2020
+Total work time:    0 hours 16 minutes
+Money earned:    $2.68
+Pay rate:    $10.234097755947834
+Owned:    $2300.52
+
+Tue May 26 08:09:00 2020
+Start time:    Tue May 26 08:09:00 2020
+End time:    Tue May 26 08:53:39 2020
+Total work time:    0 hours 45 minutes
+Money earned:    $7.62
+Pay rate:    $10.236380244382973
+Owned:    $2308.14
+
+Tue May 26 10:27:22 2020
+Start time:    Tue May 26 10:27:22 2020
+End time:    Tue May 26 11:42:34 2020
+Total work time:    1 hours 15 minutes
+Money earned:    $12.83
+Pay rate:    $10.240225245131823
+Owned:    $2320.97
+
+Tue May 26 11:45:57 2020
+Start time:    Tue May 26 11:45:57 2020
+End time:    Tue May 26 14:15:47 2020
+Total work time:    2 hours 30 minutes
+Money earned:    $25.6
+Pay rate:    $10.240225245131823
+Owned:    $2346.57
+
+Tue May 26 14:58:56 2020
+Start time:    Tue May 26 14:58:56 2020
+End time:    Tue May 26 15:42:30 2020
+Total work time:    0 hours 44 minutes
+Money earned:    $7.51
+Pay rate:    $10.240225245131823
+Owned:    $2354.08
+
+Tue May 26 16:54:28 2020
+Start time:    Tue May 26 16:54:28 2020
+End time:    Tue May 26 17:39:12 2020
+Total work time:    0 hours 45 minutes
+Money earned:    $7.52
+Pay rate:    $10.240225245131823
+Owned:    $2361.61
+
+Tue May 26 17:41:04 2020
+Start time:    Tue May 26 17:41:04 2020
+End time:    Tue May 26 18:52:06 2020
+Total work time:    1 hours 11 minutes
+Money earned:    $12.12
+Pay rate:    $10.24022702105556
+Owned:    $2373.73
+
+Tue May 26 20:06:38 2020
+Start time:    Tue May 26 20:06:38 2020
+End time:    Tue May 26 21:08:29 2020
+Total work time:    1 hours 2 minutes
+Money earned:    $10.55
+Pay rate:    $10.243390096253108
+Owned:    $2384.28
+
+Tue May 26 22:39:15 2020
+Start time:    Tue May 26 22:39:15 2020
+End time:    Wed May 27 23:39:14 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $10.24
+Pay rate:    $10.243390096253108
+Owned:    $2394.52
+
+Wed May 27 7:05:15 2020
+Start time:    Tue May 26 7:05:15 2020
+End time:    Wed May 27 8:25:14 2020
+Total work time:    1 hours 10 minutes
+Money earned:    $11.95
+Pay rate:    $10.243390096253108
+Owned:    $2406.47
+
+Wed May 27 09:33:36 2020
+Start time:    Wed May 27 09:33:36 2020
+End time:    Wed May 27 10:08:22 2020
+Total work time:    0 hours 35 minutes
+Money earned:    $5.94
+Pay rate:    $10.245168812784808
+Owned:    $2412.41
+
+Wed May 27 10:27:32 2020
+Start time:    Wed May 27 10:27:32 2020
+End time:    Wed May 27 12:04:43 2020
+Total work time:    1 hours 37 minutes
+Money earned:    $16.59
+Pay rate:    $10.250142158636502
+Owned:    $2429.0
+
+Wed May 27 12:10:40 2020
+Start time:    Wed May 27 12:10:40 2020
+End time:    Wed May 27 13:30:13 2020
+Total work time:    1 hours 20 minutes
+Money earned:    $13.59
+Pay rate:    $10.25421434711143
+Owned:    $2442.59
+
+Wed May 27 15:40:41 2020
+Start time:    Wed May 27 15:40:41 2020
+End time:    Wed May 27 18:11:22 2020
+Total work time:    2 hours 31 minutes
+Money earned:    $25.75
+Pay rate:    $10.26193341483738
+Owned:    $2468.34
+
+Wed May 27 19:03:42 2020
+Start time:    Wed May 27 19:03:42 2020
+End time:    Wed May 27 19:43:31 2020
+Total work time:    0 hours 40 minutes
+Money earned:    $6.81
+Pay rate:    $10.263974029893454
+Owned:    $2475.15
+
+Wed May 27 20:05:44 2020
+Start time:    Wed May 27 20:05:44 2020
+End time:    Wed May 27 20:28:54 2020
+Total work time:    0 hours 23 minutes
+Money earned:    $3.96
+Pay rate:    $10.265161652056346
+Owned:    $2479.11
+
+Wed May 27 20:37:49 2020
+Start time:    Wed May 27 20:37:49 2020
+End time:    Wed May 27 21:02:15 2020
+Total work time:    0 hours 24 minutes
+Money earned:    $4.18
+Pay rate:    $10.266414009811935
+Owned:    $2483.29
+
+Wed May 27 21:24:58 2020
+Start time:    Wed May 27 21:24:58 2020
+End time:    Wed May 27 23:44:57 2020
+Total work time:    2 hours 20 minutes
+Money earned:    $23.95
+Pay rate:    $10.273593620209969
+Owned:    $2507.24
+
+Wed May 27 23:49:36 2020
+Start time:    Wed May 27 23:49:36 2020
+End time:    Thu May 28 00:19:39 2020
+Total work time:    0 hours 30 minutes
+Money earned:    $5.15
+Pay rate:    $10.275135500114876
+Owned:    $2512.39
+
+Thu May 28 10:00:43 2020
+Start time:    Thu May 28 10:00:43 2020
+End time:    Thu May 28 11:06:36 2020
+Total work time:    1 hours 6 minutes
+Money earned:    $11.28
+Pay rate:    $10.278517166190444
+Owned:    $2523.67
+
+Thu May 28 12:22:14 2020
+Start time:    Thu May 28 12:22:14 2020
+End time:    Thu May 28 13:12:27 2020
+Total work time:    0 hours 50 minutes
+Money earned:    $8.6
+Pay rate:    $10.281094804750905
+Owned:    $2532.27
+
+Thu May 28 13:48:15 2020
+Start time:    Thu May 28 13:48:15 2020
+End time:    Thu May 28 14:58:32 2020
+Total work time:    1 hours 10 minutes
+Money earned:    $12.04
+Pay rate:    $10.284703437333661
+Owned:    $2544.31
+
+Thu May 28 15:30:00 2020
+Start time:    Thu May 28 15:30:00 2020
+End time:    Thu May 28 16:58:17 2020
+Total work time:    1 hours 28 minutes
+Money earned:    $15.13
+Pay rate:    $10.289239070276206
+Owned:    $2559.45
+
+Thu May 28 17:28:00 2020
+Start time:    Thu May 28 17:28:00 2020
+End time:    Thu May 28 18:58:17 2020
+Total work time:    1 hours 30 minutes
+Money earned:    $15.43
+Pay rate:    $10.289239070276206
+Owned:    $2574.88
+
+Thu May 28 18:57:22 2020
+Start time:    Thu May 28 18:57:22 2020
+End time:    Thu May 28 19:19:49 2020
+Total work time:    0 hours 22 minutes
+Money earned:    $3.85
+Pay rate:    $10.290392627834276
+Owned:    $2578.73
+
+Thu May 28 19:58:53 2020
+Start time:    Thu May 28 19:58:53 2020
+End time:    Thu May 28 22:40:15 2020
+Total work time:    2 hours 41 minutes
+Money earned:    $27.67
+Pay rate:    $10.298688497910987
+Owned:    $2606.4
+
+Thu May 28 23:22:00 2020
+Start time:    Thu May 28 23:22:00 2020
+End time:    Thu May 28 23:38:47 2020
+Total work time:    0 hours 17 minutes
+Money earned:    $2.88
+Pay rate:    $10.299551554613346
+Owned:    $2609.28
+
+Fri May 29 06:48:39 2020
+Start time:    Fri May 29 06:48:39 2020
+End time:    Fri May 29 09:39:06 2020
+Total work time:    2 hours 50 minutes
+Money earned:    $29.26
+Pay rate:    $10.308322842579763
+Owned:    $2638.54
+
+Fri May 29 11:00:00 2020
+Start time:    Fri May 29 11:00:00 2020
+End time:    Fri May 29 12:00:00 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $10.3
+Pay rate:    $10.308322842579763
+Owned:    $2648.84
+
+Fri May 29 12:50:55 2020
+Start time:    Fri May 29 12:50:55 2020
+End time:    Fri May 29 13:19:57 2020
+Total work time:    0 hours 29 minutes
+Money earned:    $4.99
+Pay rate:    $10.309817879192833
+Owned:    $2653.83
+
+Fri May 29 16:01:03 2020
+Start time:    Fri May 29 16:01:03 2020
+End time:    Fri May 29 17:45:54 2020
+Total work time:    1 hours 45 minutes
+Money earned:    $18.02
+Pay rate:    $10.315217886473157
+Owned:    $2671.85
+
+Fri May 29 17:43:03 2020
+Start time:    Fri May 29 17:43:03 2020
+End time:    Fri May 29 19:43:54 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $20.63
+Pay rate:    $10.315217886473157
+Owned:    $2692.48
+
+Sat May 30 09:07:15 2020
+Start time:    Sat May 30 09:07:15 2020
+End time:    Sat May 30 11:08:57 2020
+Total work time:    2 hours 2 minutes
+Money earned:    $20.92
+Pay rate:    $10.321488962176675
+Owned:    $2713.4
+
+Sat May 30 11:53:41 2020
+Start time:    Sat May 30 11:53:41 2020
+End time:    Sat May 30 13:49:17 2020
+Total work time:    1 hours 56 minutes
+Money earned:    $19.88
+Pay rate:    $10.327448945876963
+Owned:    $2733.28
+
+Sat May 30 14:30:41 2020
+Start time:    Sat May 30 14:30:41 2020
+End time:    Sat May 30 15:20:41 2020
+Total work time:    0 hours 50 minutes
+Money earned:    $8.61
+Pay rate:    $10.327448945876963
+Owned:    $2741.89
+
+Sat May 30 15:23:50 2020
+Start time:    Sat May 30 15:23:50 2020
+End time:    Sat May 30 15:52:57 2020
+Total work time:    0 hours 29 minutes
+Money earned:    $5.01
+Pay rate:    $10.328950961180643
+Owned:    $2746.9
+
+Sat May 30 16:13:20 2020
+Start time:    Sat May 30 16:13:20 2020
+End time:    Sat May 30 17:46:26 2020
+Total work time:    1 hours 33 minutes
+Money earned:    $16.03
+Pay rate:    $10.33375478966831
+Owned:    $2762.93
+
+Sat May 30 17:46:30 2020
+Start time:    Sat May 30 17:46:30 2020
+End time:    Sat May 30 18:44:22 2020
+Total work time:    0 hours 58 minutes
+Money earned:    $9.97
+Pay rate:    $10.336741802654384
+Owned:    $2772.9
+
+Sat May 30 21:06:37 2020
+Start time:    Sat May 30 21:06:37 2020
+End time:    Sat May 30 21:51:58 2020
+Total work time:    0 hours 45 minutes
+Money earned:    $7.81
+Pay rate:    $10.33908282211383
+Owned:    $2780.71
+
+Sat May 30 22:02:41 2020
+Start time:    Sat May 30 22:02:41 2020
+End time:    Sat May 30 22:35:01 2020
+Total work time:    0 hours 32 minutes
+Money earned:    $5.57
+Pay rate:    $10.340752270267693
+Owned:    $2786.28
+
+Sat May 30 23:18:45 2020
+Start time:    Sat May 30 23:18:45 2020
+End time:    Sun May 31 00:06:24 2020
+Total work time:    0 hours 48 minutes
+Money earned:    $8.21
+Pay rate:    $10.343213637592443
+Owned:    $2794.5
+
+Sun May 31 09:06:34 2020
+Start time:    Sun May 31 09:06:34 2020
+End time:    Sun May 31 11:24:10 2020
+Total work time:    2 hours 18 minutes
+Money earned:    $23.72
+Pay rate:    $10.350323415672445
+Owned:    $2818.22
+
+Sun May 31 11:53:37 2020
+Start time:    Sun May 31 11:53:37 2020
+End time:    Sun May 31 12:23:49 2020
+Total work time:    0 hours 30 minutes
+Money earned:    $5.21
+Pay rate:    $10.35188505274994
+Owned:    $2823.43
+
+Sun May 31 12:49:25 2020
+Start time:    Sun May 31 12:49:25 2020
+End time:    Sun May 31 12:56:22 2020
+Total work time:    0 hours 7 minutes
+Money earned:    $1.2
+Pay rate:    $10.352245152113566
+Owned:    $2824.63
+
+Sun May 31 14:22:25 2020
+Start time:    Sun May 31 14:22:25 2020
+End time:    Sun May 31 15:07:22 2020
+Total work time:    1 hours 45 minutes
+Money earned:    $18.11
+Pay rate:    $10.352245152113566
+Owned:    $2842.74
+
+Sun May 31 15:10:07 2020
+Start time:    Sun May 31 15:10:07 2020
+End time:    Sun May 31 15:52:06 2020
+Total work time:    0 hours 42 minutes
+Money earned:    $7.24
+Pay rate:    $10.354415781701453
+Owned:    $2849.98
+
+Sun May 31 16:15:10 2020
+Start time:    Sun May 31 16:15:10 2020
+End time:    Sun May 31 16:31:12 2020
+Total work time:    0 hours 16 minutes
+Money earned:    $2.77
+Pay rate:    $10.355244704482065
+Owned:    $2852.75
+
+Sun May 31 16:49:26 2020
+Start time:    Sun May 31 16:49:26 2020
+End time:    Sun May 31 16:53:28 2020
+Total work time:    0 hours 4 minutes
+Money earned:    $0.7
+Pay rate:    $10.355453133975535
+Owned:    $2853.45
+
+Sun May 31 16:53:29 2020
+Start time:    Sun May 31 16:53:29 2020
+End time:    Sun May 31 17:17:35 2020
+Total work time:    0 hours 24 minutes
+Money earned:    $4.16
+Pay rate:    $10.356699912890736
+Owned:    $2857.61
+
+Sun May 31 17:17:38 2020
+Start time:    Sun May 31 17:17:38 2020
+End time:    Sun May 31 17:24:15 2020
+Total work time:    0 hours 7 minutes
+Money earned:    $1.14
+Pay rate:    $10.357041948920369
+Owned:    $2858.75
+
+Sun May 31 17:42:12 2020
+Start time:    Sun May 31 17:42:12 2020
+End time:    Sun May 31 17:56:40 2020
+Total work time:    0 hours 14 minutes
+Money earned:    $2.5
+Pay rate:    $10.357790273152512
+Owned:    $2861.24
+
+Sun May 31 17:56:41 2020
+Start time:    Sun May 31 17:56:41 2020
+End time:    Sun May 31 18:43:43 2020
+Total work time:    0 hours 47 minutes
+Money earned:    $8.12
+Pay rate:    $10.360223653020965
+Owned:    $2869.36
+
+Sun May 31 18:44:04 2020
+Start time:    Sun May 31 18:44:04 2020
+End time:    Sun May 31 18:59:11 2020
+Total work time:    0 hours 15 minutes
+Money earned:    $2.61
+Pay rate:    $10.361005770402214
+Owned:    $2871.97
+
+Sun May 31 19:16:30 2020
+Start time:    Sun May 31 19:16:30 2020
+End time:    Sun May 31 20:26:10 2020
+Total work time:    1 hours 10 minutes
+Money earned:    $12.03
+Pay rate:    $10.364611085957273
+Owned:    $2884.0
+
+Sun May 31 20:26:30 2020
+Start time:    Sun May 31 20:26:30 2020
+End time:    Sun May 31 21:52:30 2020
+Total work time:    1 hours 26 minutes
+Money earned:    $14.86
+Pay rate:    $10.364611085957273
+Owned:    $2898.86
+
+Sun May 31 22:33:32 2020
+Start time:    Sun May 31 22:33:32 2020
+End time:    Sun May 31 23:04:31 2020
+Total work time:    0 hours 31 minutes
+Money earned:    $5.35
+Pay rate:    $10.366214839205059
+Owned:    $2904.21
+
+Sun May 31 23:04:33 2020
+Start time:    Sun May 31 23:04:33 2020
+End time:    Sun May 31 23:35:54 2020
+Total work time:    0 hours 31 minutes
+Money earned:    $5.42
+Pay rate:    $10.367838202933866
+Owned:    $2909.63
+
+Sun May 31 23:54:17 2020
+Start time:    Sun May 31 23:54:17 2020
+End time:    Sun May 31 23:54:24 2020
+Total work time:    0 hours 0 minutes
+Money earned:    $0.02
+Pay rate:    $10.36784419753611
+Owned:    $2909.65
+
+Mon Jun  1 00:03:07 2020
+Start time:    Mon Jun  1 00:03:07 2020
+End time:    Mon Jun  1 00:21:06 2020
+Total work time:    0 hours 18 minutes
+Money earned:    $3.11
+Pay rate:    $10.36877522702808
+Owned:    $2912.76
+
+Mon Jun  1 6:30:07 2020
+Start time:    Mon Jun  1 6:30:07 2020
+End time:    Mon Jun  1 12:00:07 2020
+Total work time:    5 hours 30 minutes
+Money earned:    $57.03
+Pay rate:    $10.36877522702808
+Owned:    $2969.79
+
+Mon Jun  1 19:15:02 2020
+Start time:    Mon Jun  1 19:15:02 2020
+End time:    Tue Jun  2 00:05:02 2020
+Total work time:    4 hours 50 minutes
+Money earned:    $50.12
+Pay rate:    $10.4
+Owned:    $3019.91
+
+Tue Jun  2 11:02:36 2020
+Start time:    Tue Jun  2 11:02:36 2020
+End time:    Tue Jun  2 12:22:36 2020
+Total work time:    1 hours 10 minutes
+Money earned:    $12.13
+Pay rate:    $10.4
+Owned:    $3032.04
+
+Tue Jun  2 12:25:36 2020
+Start time:    Tue Jun  2 12:25:36 2020
+End time:    Tue Jun  2 14:25:36 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $20.8
+Pay rate:    $10.4
+Owned:    $3052.84
+
+Tue Jun  2 17:30:36 2020
+Start time:    Tue Jun  2 17:30:36 2020
+End time:    Tue Jun  2 19:30:36 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $20.8
+Pay rate:    $10.4
+Owned:    $3073.64
+
+Tue Jun  2 20:15:18 2020
+Start time:    Tue Jun  2 20:15:18 2020
+End time:    Tue Jun  2 22:34:36 2020
+Total work time:    2 hours 19 minutes
+Money earned:    $24.14
+Pay rate:    $10.407237179220248
+Owned:    $3097.78
+
+Wed Jun  3 09:02:15 2020
+Start time:    Wed Jun  3 09:02:15 2020
+End time:    Wed Jun  3 09:04:25 2020
+Total work time:    0 hours 2 minutes
+Money earned:    $0.38
+Pay rate:    $10.407350229577126
+Owned:    $3098.16
+
+Wed Jun  3 09:06:31 2020
+Start time:    Wed Jun  3 09:06:31 2020
+End time:    Wed Jun  3 09:40:31 2020
+Total work time:    0 hours 36 minutes
+Money earned:    $6.24
+Pay rate:    $10.408244281687507
+Owned:    $3104.41
+
+Wed Jun  3 10:00:00 2020
+Start time:    Wed Jun  3 10:00:00 2020
+End time:    Wed Jun  3 13:23:31 2020
+Total work time:    3 hours 23 minutes
+Money earned:    $35.283427035468414
+Pay rate:    $10.4188198081594
+Owned:    $3139.6934270354686
+
+Wed Jun  3 14:00:00 2020
+Start time:    Wed Jun  3 14:00:00 2020
+End time:    Wed Jun  3 15:00:00 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $10.42
+Pay rate:    $10.4188198081594
+Owned:    $3150.11
+
+Wed Jun  3 15:43:10 2020
+Start time:    Wed Jun  3 15:43:10 2020
+End time:    Wed Jun  3 17:21:58 2020
+Total work time:    1 hours 39 minutes
+Money earned:    $17.16
+Pay rate:    $10.42400338896009
+Owned:    $3167.41
+
+Wed Jun  3 17:56:52 2020
+Start time:    Wed Jun  3 17:56:52 2020
+End time:    Wed Jun  3 18:28:27 2020
+Total work time:    0 hours 32 minutes
+Money earned:    $5.49
+Pay rate:    $10.425647499589825
+Owned:    $3172.89
+
+Wed Jun  3 19:07:46 2020
+Start time:    Wed Jun  3 19:07:46 2020
+End time:    Wed Jun  3 19:31:14 2020
+Total work time:    0 hours 23 minutes
+Money earned:    $4.08
+Pay rate:    $10.42686998700994
+Owned:    $3176.97
+
+Wed Jun  3 21:11:49 2020
+Start time:    Wed Jun  3 21:11:49 2020
+End time:    Wed Jun  3 22:02:50 2020
+Total work time:    0 hours 51 minutes
+Money earned:    $8.87
+Pay rate:    $10.429527262078754
+Owned:    $3185.84
+
+Thu Jun  4 14:17:20 2020
+Start time:    Thu Jun  4 14:17:20 2020
+End time:    Thu Jun  4 19:42:30 2020
+Total work time:    5 hours 25 minutes
+Money earned:    $56.41
+Pay rate:    $10.425159757272388
+Owned:    $3242.25
+
+Thu Jun  4 20:25:04 2020
+Start time:    Thu Jun  4 20:25:04 2020
+End time:    Thu Jun  4 22:52:57 2020
+Total work time:    2 hours 28 minutes
+Money earned:    $25.69
+Pay rate:    $10.432861562493352
+Owned:    $3267.94
+
+Fri Jun  5 08:56:59 2020
+Start time:    Fri Jun  5 08:56:59 2020
+End time:    Fri Jun  5 11:51:21 2020
+Total work time:    2 hours 54 minutes
+Money earned:    $30.32
+Pay rate:    $10.441950023442994
+Owned:    $3298.26
+
+Fri Jun  5 12:00:00 2020
+Start time:    Fri Jun  5 12:00:00 2020
+End time:    Fri Jun  5 17:00:00 2020
+Total work time:    5 hours 0 minutes
+Money earned:    $52.5
+Pay rate:    $10.5
+Owned:    $3350.76
+
+Sat Jun  6 12:00:00 2020
+Start time:    Sat Jun  6 12:00:00 2020
+End time:    Sat Jun  6 20:00:00 2020
+Total work time:    8 hours 0 minutes
+Money earned:    $84.0
+Pay rate:    $10.5
+Owned:    $3434.76
+
+Sat Jun  6 11:00:00 2020
+Start time:    Sat Jun  6 11:00:00 2020
+End time:    Sat Jun  6 13:00:00 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $21.0
+Pay rate:    $10.5
+Owned:    $3554.76
+
+Mon Jun  8 13:50:01 2020
+Start time:    Mon Jun  8 13:50:01 2020
+End time:    Mon Jun  8 14:22:12 2020
+Total work time:    0 hours 32 minutes
+Money earned:    $5.63
+Pay rate:    $10.50168779615305
+Owned:    $3560.39
+
+Mon Jun  8 19:09:29 2020
+Start time:    Mon Jun  8 19:09:29 2020
+End time:    Mon Jun  8 20:15:14 2020
+Total work time:    1 hours 5 minutes
+Money earned:    $11.51
+Pay rate:    $10.505136662773573
+Owned:    $3571.91
+
+Tue Jun  9 10:10:29 2020
+Start time:    Tue Jun  9 10:10:29 2020
+End time:    Tue Jun  9 11:22:24 2020
+Total work time:    1 hours 11 minutes
+Money earned:    $12.6
+Pay rate:    $10.508910099302645
+Owned:    $3584.5
+
+Tue Jun  9 12:13:36 2020
+Start time:    Tue Jun  9 12:13:36 2020
+End time:    Tue Jun  9 12:44:08 2020
+Total work time:    0 hours 30 minutes
+Money earned:    $5.35
+Pay rate:    $10.510512432313227
+Owned:    $3589.85
+
+Tue Jun  9 13:47:34 2020
+Start time:    Tue Jun  9 13:47:34 2020
+End time:    Tue Jun  9 14:00:17 2020
+Total work time:    0 hours 12 minutes
+Money earned:    $2.23
+Pay rate:    $10.51117984867812
+Owned:    $3592.08
+
+Tue Jun  9 14:10:00 2020
+Start time:    Tue Jun  9 14:10:00 2020
+End time:    Tue Jun  9 16:03:17 2020
+Total work time:    1 hours 53 minutes
+Money earned:    $19.86
+Pay rate:    $10.51712832622193
+Owned:    $3611.93
+
+Tue Jun  9 16:59:43 2020
+Start time:    Tue Jun  9 16:59:43 2020
+End time:    Tue Jun  9 17:04:13 2020
+Total work time:    0 hours 4 minutes
+Money earned:    $0.79
+Pay rate:    $10.517364378422721
+Owned:    $3612.72
+
+Wed Jun 10 10:43:35 2020
+Start time:    Wed Jun 10 10:43:35 2020
+End time:    Wed Jun 10 11:48:37 2020
+Total work time:    1 hours 5 minutes
+Money earned:    $11.4
+Pay rate:    $10.52078019210282
+Owned:    $3624.12
+
+Wed Jun 10 11:52:49 2020
+Start time:    Wed Jun 10 11:52:49 2020
+End time:    Wed Jun 10 12:25:53 2020
+Total work time:    0 hours 33 minutes
+Money earned:    $5.8
+Pay rate:    $10.522517663220153
+Owned:    $3629.92
+
+Wed Jun 10 12:46:36 2020
+Start time:    Wed Jun 10 12:46:36 2020
+End time:    Wed Jun 10 14:55:16 2020
+Total work time:    2 hours 8 minutes
+Money earned:    $22.58
+Pay rate:    $10.52928073052053
+Owned:    $3652.5
+
+Wed Jun 10 15:00:38 2020
+Start time:    Wed Jun 10 15:00:38 2020
+End time:    Wed Jun 10 15:21:50 2020
+Total work time:    0 hours 21 minutes
+Money earned:    $3.72
+Pay rate:    $10.53039563039866
+Owned:    $3656.22
+
+Wed Jun 10 18:32:47 2020
+Start time:    Wed Jun 10 18:32:47 2020
+End time:    Wed Jun 10 19:33:16 2020
+Total work time:    1 hours 0 minutes
+Money earned:    $10.62
+Pay rate:    $10.533576853167435
+Owned:    $3666.84
+
+Wed Jun 10 19:35:00 2020
+Start time:    Wed Jun 10 19:35:00 2020
+End time:    Wed Jun 10 19:50:00 2020
+Total work time:    0 hours 15 minutes
+Money earned:    $2.63
+Pay rate:    $10.534365954479092
+Owned:    $3669.47
+
+Wed Jun 10 20:41:33 2020
+Start time:    Wed Jun 10 20:41:33 2020
+End time:    Wed Jun 10 20:52:48 2020
+Total work time:    0 hours 11 minutes
+Money earned:    $1.98
+Pay rate:    $10.534958179570653
+Owned:    $3671.45
+
+Wed Jun 10 22:14:01 2020
+Start time:    Wed Jun 10 22:14:01 2020
+End time:    Wed Jun 10 22:29:17 2020
+Total work time:    0 hours 15 minutes
+Money earned:    $2.68
+Pay rate:    $10.535761464917046
+Owned:    $3674.13
+
+Wed Jun 10 22:30:27 2020
+Start time:    Wed Jun 10 22:30:27 2020
+End time:    Wed Jun 10 22:53:32 2020
+Total work time:    0 hours 23 minutes
+Money earned:    $4.05
+Pay rate:    $10.536976140635995
+Owned:    $3678.18
+
+Wed Jun 10 22:56:13 2020
+Start time:    Wed Jun 10 22:56:13 2020
+End time:    Wed Jun 10 22:56:14 2020
+Total work time:    0 hours 0 minutes
+Money earned:    $0.0
+Pay rate:    $10.536976943743039
+Owned:    $3678.19
+
+Wed Jun 10 23:05:00 2020
+Start time:    Wed Jun 10 23:05:00 2020
+End time:    Wed Jun 10 23:20:00 2020
+Total work time:    0 hours 15 minutes
+Money earned:    $2.63
+Pay rate:    $10.53776629976551
+Owned:    $3680.82
+
+Wed Jun 10 23:05:00 2020
+Start time:    Wed Jun 10 23:05:00 2020
+End time:    Wed Jun 10 23:20:00 2020
+Total work time:    0 hours 15 minutes
+Money earned:    $2.63
+Pay rate:    $10.53776629976551
+Owned:    $3680.82
+
+Thu Jun 11 8:00:00 2020
+Start time:    Thu Jun 11 8:00:00 2020
+End time:    Wed Jun 10 10:30:00 2020
+Total work time:    2 hours 30 minutes
+Money earned:    $26.36
+Pay rate:    $10.545663113035594
+Owned:    $3707.19
+
+Thu Jun 11 10:35:23 2020
+Start time:    Thu Jun 11 10:35:23 2020
+End time:    Thu Jun 11 11:17:53 2020
+Total work time:    0 hours 42 minutes
+Money earned:    $7.47
+Pay rate:    $10.547901441298484
+Owned:    $3714.66
+
+Thu Jun 11 11:23:55 2020
+Start time:    Thu Jun 11 11:23:55 2020
+End time:    Thu Jun 11 11:38:25 2020
+Total work time:    0 hours 14 minutes
+Money earned:    $2.55
+Pay rate:    $10.548665508383495
+Owned:    $3717.21
+
+Thu Jun 11 11:41:38 2020
+Start time:    Thu Jun 11 11:41:38 2020
+End time:    Thu Jun 11 12:56:28 2020
+Total work time:    1 hours 14 minutes
+Money earned:    $13.16
+Pay rate:    $10.552609114463525
+Owned:    $3730.37
+
+Thu Jun 11 14:03:50 2020
+Start time:    Thu Jun 11 14:03:50 2020
+End time:    Thu Jun 11 15:36:30 2020
+Total work time:    1 hours 32 minutes
+Money earned:    $16.3
+Pay rate:    $10.557493453235104
+Owned:    $3746.67
+
+Thu Jun 11 15:42:06 2020
+Start time:    Thu Jun 11 15:42:06 2020
+End time:    Thu Jun 11 16:51:08 2020
+Total work time:    1 hours 9 minutes
+Money earned:    $12.15
+Pay rate:    $10.561133766330691
+Owned:    $3758.83
+
+Fri Jun 12 08:17:27 2020
+Start time:    Fri Jun 12 08:17:27 2020
+End time:    Fri Jun 12 10:46:45 2020
+Total work time:    2 hours 29 minutes
+Money earned:    $26.3
+Pay rate:    $10.569011180768802
+Owned:    $3785.12
+
+Fri Jun 12 10:48:28 2020
+Start time:    Fri Jun 12 10:48:28 2020
+End time:    Fri Jun 12 14:17:49 2020
+Total work time:    3 hours 29 minutes
+Money earned:    $36.92
+Pay rate:    $10.580066970118613
+Owned:    $3822.04
+
+Fri Jun 12 14:44:00 2020
+Start time:    Fri Jun 12 14:44:00 2020
+End time:    Fri Jun 12 16:54:55 2020
+Total work time:    2 hours 10 minutes
+Money earned:    $23.7
+Pay rate:    $10.590159609437597
+Owned:    $3845.74
+
+Sat Jun 13 09:59:59 2020
+Start time:    Sat Jun 13 09:59:59 2020
+End time:    Sat Jun 13 13:29:13 2020
+Total work time:    3 hours 29 minutes
+Money earned:    $36.97
+Pay rate:    $10.60123108919519
+Owned:    $3882.71
+
+Sat Jun 13 18:36:52 2020
+Start time:    Sat Jun 13 18:36:52 2020
+End time:    Sat Jun 13 19:31:53 2020
+Total work time:    0 hours 55 minutes
+Money earned:    $9.72
+Pay rate:    $10.604143441662831
+Owned:    $3892.43
+
+Sun Jun 14 19:03:59 2020
+Start time:    Sun Jun 14 19:03:59 2020
+End time:    Sun Jun 14 21:28:44 2020
+Total work time:    2 hours 24 minutes
+Money earned:    $25.6
+Pay rate:    $10.611811717801775
+Owned:    $3918.03
+
+Sat Jun 20 12:57:02 2020
+Start time:    Sat Jun 20 12:57:02 2020
+End time:    Sat Jun 20 16:37:40 2020
+Total work time:    3 hours 40 minutes
+Money earned:    $39.06
+Pay rate:    $10.623510534769112
+Owned:    $3957.09
+
+Sat Jun 20 17:00:00 2020
+Start time:    Sat Jun 20 17:00:00 2020
+End time:    Sat Jun 20 22:00:00 2020
+Total work time:    5 hours 0 minutes
+Money earned:    $53.2
+Pay rate:    $10.63943863757839
+Owned:    $4010.29
+
+Sun Jun 21 11:21:32 2020
+Start time:    Sun Jun 21 11:21:32 2020
+End time:    Sun Jun 21 13:20:52 2020
+Total work time:    1 hours 59 minutes
+Money earned:    $21.17
+Pay rate:    $10.64578120755046
+Owned:    $4031.46
+
+Thu Jun 25 13:44:15 2020
+Start time:    Thu Jun 25 13:44:15 2020
+End time:    Thu Jun 25 13:59:11 2020
+Total work time:    0 hours 14 minutes
+Money earned:    $2.65
+Pay rate:    $10.646575347307731
+Owned:    $4034.12
+
+Thu Jun 25 14:34:50 2020
+Start time:    Thu Jun 25 14:34:50 2020
+End time:    Thu Jun 25 15:57:06 2020
+Total work time:    1 hours 22 minutes
+Money earned:    $14.6
+Pay rate:    $10.650950511192768
+Owned:    $4048.72
+
+Tue Jun 30 14:27:50 2020
+Start time:    Tue Jun 30 14:27:50 2020
+End time:    Tue Jun 30 15:41:43 2020
+Total work time:    1 hours 13 minutes
+Money earned:    $13.12
+Pay rate:    $10.654881317664389
+Owned:    $4061.84
+
+Wed Jul  1 11:30:54 2020
+Start time:    Wed Jul  1 11:30:54 2020
+End time:    Wed Jul  1 13:02:15 2020
+Total work time:    1 hours 31 minutes
+Money earned:    $16.23
+Pay rate:    $10.659743645568218
+Owned:    $4078.07
+
+Wed Jul  1 14:11:37 2020
+Start time:    Wed Jul  1 14:11:37 2020
+End time:    Wed Jul  1 16:00:02 2020
+Total work time:    1 hours 48 minutes
+Money earned:    $19.27
+Pay rate:    $10.66551645724568
+Owned:    $4097.34
+
+Wed Jul  1 17:35:32 2020
+Start time:    Wed Jul  1 17:35:32 2020
+End time:    Wed Jul  1 18:40:00 2020
+Total work time:    1 hours 4 minutes
+Money earned:    $11.46
+Pay rate:    $10.668950688429806
+Owned:    $4108.81
+
+Thu Jul  2 18:02:54 2020
+Start time:    Thu Jul  2 18:02:54 2020
+End time:    Thu Jul  2 19:28:31 2020
+Total work time:    1 hours 25 minutes
+Money earned:    $15.23
+Pay rate:    $10.673513332423909
+Owned:    $4124.04
+
+Thu Jul  2 22:13:35 2020
+Start time:    Thu Jul  2 22:13:35 2020
+End time:    Thu Jul  2 22:45:39 2020
+Total work time:    0 hours 32 minutes
+Money earned:    $5.71
+Pay rate:    $10.67522296183432
+Owned:    $4129.74
+
+Thu Jul  2 23:32:21 2020
+Start time:    Thu Jul  2 23:32:21 2020
+End time:    Fri Jul  3 00:12:56 2020
+Total work time:    0 hours 40 minutes
+Money earned:    $7.22
+Pay rate:    $10.677387402884222
+Owned:    $4136.97
+
+Fri Jul  3 00:13:23 2020
+Start time:    Fri Jul  3 00:13:23 2020
+End time:    Fri Jul  3 10:39:06 2020
+Total work time:    10 hours 25 minutes
+Money earned:    $111.7
+Pay rate:    $10.710805097732544
+Owned:    $4248.67
+
+Fri Jul  3 10:42:25 2020
+Start time:    Fri Jul  3 10:42:25 2020
+End time:    Fri Jul  3 13:36:35 2020
+Total work time:    2 hours 54 minutes
+Money earned:    $31.12
+Pay rate:    $10.720124930642182
+Owned:    $4279.78
+
+Sun Jul  5 16:21:31 2020
+Start time:    Sun Jul  5 16:21:31 2020
+End time:    Sun Jul  5 18:12:38 2020
+Total work time:    1 hours 51 minutes
+Money earned:    $19.86
+Pay rate:    $10.726075017026313
+Owned:    $4299.65
+
+Sun Jul  5 18:50:20 2020
+Start time:    Sun Jul  5 18:50:20 2020
+End time:    Sun Jul  5 19:00:08 2020
+Total work time:    0 hours 9 minutes
+Money earned:    $1.75
+Pay rate:    $10.726600142421796
+Owned:    $4301.4
+
+Mon Jul  6 15:06:49 2020
+Start time:    Mon Jul  6 15:06:49 2020
+End time:    Mon Jul  6 18:35:17 2020
+Total work time:    3 hours 28 minutes
+Money earned:    $37.31
+Pay rate:    $10.737773117187583
+Owned:    $4338.71
+
+Mon Jul  6 19:24:55 2020
+Start time:    Mon Jul  6 19:24:55 2020
+End time:    Mon Jul  6 22:48:37 2020
+Total work time:    3 hours 23 minutes
+Money earned:    $36.49
+Pay rate:    $10.748702244665276
+Owned:    $4375.2
+
+Tue Jul  7 12:47:42 2020
+Start time:    Tue Jul  7 12:47:42 2020
+End time:    Tue Jul  7 17:45:58 2020
+Total work time:    4 hours 58 minutes
+Money earned:    $53.51
+Pay rate:    $10.76472509655967
+Owned:    $4428.71
+
+Wed Jul  8 10:52:24 2020
+Start time:    Wed Jul  8 10:52:24 2020
+End time:    Wed Jul  8 11:43:28 2020
+Total work time:    0 hours 51 minutes
+Money earned:    $9.17
+Pay rate:    $10.767471228030866
+Owned:    $4437.88
+
+Wed Jul  8 16:31:14 2020
+Start time:    Wed Jul  8 16:31:14 2020
+End time:    Wed Jul  8 17:37:11 2020
+Total work time:    1 hours 5 minutes
+Money earned:    $11.84
+Pay rate:    $10.77101814769382
+Owned:    $4449.72
+
+Thu Jul  9 13:12:53 2020
+Start time:    Thu Jul  9 13:12:53 2020
+End time:    Thu Jul  9 20:43:46 2020
+Total work time:    7 hours 30 minutes
+Money earned:    $81.12
+Pay rate:    $10.795298980224425
+Owned:    $4530.84
+
+Fri Jul 10 12:22:54 2020
+Start time:    Fri Jul 10 12:22:54 2020
+End time:    Fri Jul 10 15:49:42 2020
+Total work time:    3 hours 26 minutes
+Money earned:    $37.25
+Pay rate:    $10.806453565911658
+Owned:    $4568.09
+
+Sat Jul 11 12:00:29 2020
+Start time:    Sat Jul 11 12:00:29 2020
+End time:    Sat Jul 11 14:01:17 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $21.77
+Pay rate:    $10.812975444634825
+Owned:    $4589.86
+
+Sat Jul 11 14:58:07 2020
+Start time:    Sat Jul 11 14:58:07 2020
+End time:    Sun Jul 12 10:57:31 2020
+Total work time:    19 hours 59 minutes
+Money earned:    $217.45
+Pay rate:    $10.877938027047243
+Owned:    $4807.31
+
+Sun Jul 12 14:03:27 2020
+Start time:    Sun Jul 12 14:03:27 2020
+End time:    Mon Jul 13 00:10:34 2020
+Total work time:    10 hours 7 minutes
+Money earned:    $110.4
+Pay rate:    $10.91096941537592
+Owned:    $4917.72
+
+Mon Jul 13 11:22:04 2020
+Start time:    Mon Jul 13 11:22:04 2020
+End time:    Mon Jul 13 19:35:18 2020
+Total work time:    8 hours 13 minutes
+Money earned:    $89.92
+Pay rate:    $10.93787859194053
+Owned:    $5007.63
+
+Tue Jul 14 10:29:25 2020
+Start time:    Tue Jul 14 10:29:25 2020
+End time:    Tue Jul 14 12:06:35 2020
+Total work time:    1 hours 37 minutes
+Money earned:    $17.72
+Pay rate:    $10.943187793550024
+Owned:    $5025.35
+
+Tue Jul 14 13:11:20 2020
+Start time:    Tue Jul 14 13:11:20 2020
+End time:    Tue Jul 14 15:05:52 2020
+Total work time:    1 hours 54 minutes
+Money earned:    $20.9
+Pay rate:    $10.949448541101388
+Owned:    $5046.25
+
+Tue Jul 14 17:16:40 2020
+Start time:    Tue Jul 14 17:16:40 2020
+End time:    Tue Jul 14 18:32:16 2020
+Total work time:    1 hours 15 minutes
+Money earned:    $13.8
+Pay rate:    $10.953583565809758
+Owned:    $5060.06
+
+Tue Jul 14 19:01:17 2020
+Start time:    Tue Jul 14 19:01:17 2020
+End time:    Tue Jul 14 19:05:02 2020
+Total work time:    0 hours 3 minutes
+Money earned:    $0.68
+Pay rate:    $10.953788651148065
+Owned:    $5060.74
+
+Tue Jul 14 19:28:05 2020
+Start time:    Tue Jul 14 19:28:05 2020
+End time:    Tue Jul 14 19:28:08 2020
+Total work time:    0 hours 0 minutes
+Money earned:    $0.01
+Pay rate:    $10.953791668748135
+Owned:    $5060.75
+
+Fri Jul 17 12:46:16 2020
+Start time:    Fri Jul 17 12:46:16 2020
+End time:    Fri Jul 17 16:50:05 2020
+Total work time:    4 hours 3 minutes
+Money earned:    $44.57
+Pay rate:    $10.96713736965802
+Owned:    $5105.32
+
+Fri Jul 17 17:07:43 2020
+Start time:    Fri Jul 17 17:07:43 2020
+End time:    Fri Jul 17 18:24:59 2020
+Total work time:    1 hours 17 minutes
+Money earned:    $14.13
+Pay rate:    $10.971369958470051
+Owned:    $5119.45
+
+Fri Jul 17 18:25:00 2020
+Start time:    Fri Jul 17 18:25:00 2020
+End time:    Fri Jul 17 19:35:00 2020
+Total work time:    1 hours 9 minutes
+Money earned:    $12.8
+Pay rate:    $10.975205661953897
+Owned:    $5132.25
+
+Fri Jul 17 20:23:32 2020
+Start time:    Fri Jul 17 20:23:32 2020
+End time:    Sat Jul 18 17:16:41 2020
+Total work time:    20 hours 53 minutes
+Money earned:    $230.67
+Pay rate:    $11.044106737150702
+Owned:    $5362.91
+
+Sun Jul 19 15:24:32 2020
+Start time:    Sun Jul 19 15:24:32 2020
+End time:    Sun Jul 19 21:31:34 2020
+Total work time:    6 hours 7 minutes
+Money earned:    $67.68
+Pay rate:    $11.06436843724192
+Owned:    $5430.6
+
+Sun Jul 19 21:32:04 2020
+Start time:    Sun Jul 19 21:32:04 2020
+End time:    Mon Jul 20 00:28:23 2020
+Total work time:    2 hours 56 minutes
+Money earned:    $32.54
+Pay rate:    $11.074115174455736
+Owned:    $5463.14
+
+Mon Jul 20 11:46:37 2020
+Start time:    Mon Jul 20 11:46:37 2020
+End time:    Mon Jul 20 12:51:49 2020
+Total work time:    1 hours 5 minutes
+Money earned:    $12.04
+Pay rate:    $11.07772145888578
+Owned:    $5475.18
+
+Mon Jul 20 14:54:05 2020
+Start time:    Mon Jul 20 14:54:05 2020
+End time:    Mon Jul 20 15:34:55 2020
+Total work time:    0 hours 40 minutes
+Money earned:    $7.54
+Pay rate:    $11.07998057811761
+Owned:    $5482.72
+
+Tue Jul 21 14:30:09 2020
+Start time:    Tue Jul 21 14:30:09 2020
+End time:    Tue Jul 21 16:36:03 2020
+Total work time:    2 hours 5 minutes
+Money earned:    $23.26
+Pay rate:    $11.086949160679442
+Owned:    $5505.98
+
+Tue Jul 21 16:40:46 2020
+Start time:    Tue Jul 21 16:40:46 2020
+End time:    Tue Jul 21 17:59:52 2020
+Total work time:    1 hours 19 minutes
+Money earned:    $14.62
+Pay rate:    $11.09132931530837
+Owned:    $5520.6
+
+Tue Jul 21 22:32:50 2020
+Start time:    Tue Jul 21 22:32:50 2020
+End time:    Wed Jul 22 01:56:39 2020
+Total work time:    3 hours 23 minutes
+Money earned:    $37.72
+Pay rate:    $11.102624714485653
+Owned:    $5558.32
+
+Wed Jul 22 13:57:32 2020
+Start time:    Wed Jul 22 13:57:32 2020
+End time:    Wed Jul 22 16:15:30 2020
+Total work time:    2 hours 17 minutes
+Money earned:    $25.55
+Pay rate:    $11.110276935489912
+Owned:    $5583.86
+
+Thu Jul 23 15:20:58 2020
+Start time:    Thu Jul 23 15:20:58 2020
+End time:    Thu Jul 23 19:42:53 2020
+Total work time:    4 hours 21 minutes
+Money earned:    $48.56
+Pay rate:    $11.124818966951926
+Owned:    $5632.43
+
+Thu Jul 23 23:47:32 2020
+Start time:    Thu Jul 23 23:47:32 2020
+End time:    Fri Jul 24 03:27:28 2020
+Total work time:    3 hours 39 minutes
+Money earned:    $40.82
+Pay rate:    $11.137044584764622
+Owned:    $5673.25
+
+Fri Jul 24 14:38:48 2020
+Start time:    Fri Jul 24 14:38:48 2020
+End time:    Fri Jul 24 17:03:29 2020
+Total work time:    2 hours 24 minutes
+Money earned:    $26.87
+Pay rate:    $11.145094396507114
+Owned:    $5700.12
+
+Fri Jul 24 22:55:13 2020
+Start time:    Fri Jul 24 22:55:13 2020
+End time:    Sat Jul 25 03:07:53 2020
+Total work time:    4 hours 12 minutes
+Money earned:    $46.99
+Pay rate:    $11.15916674869786
+Owned:    $5747.12
+
+Sat Jul 25 19:43:02 2020
+Start time:    Sat Jul 25 19:43:02 2020
+End time:    Sun Jul 26 02:58:08 2020
+Total work time:    7 hours 15 minutes
+Money earned:    $81.1
+Pay rate:    $11.183440759062304
+Owned:    $5828.22
+
+Sat Jul 25 09:00:00 2020
+Start time:    Sat Jul 25 09:00:00 2020
+End time:    Sat Jul 25 12:00:00 2020
+Total work time:    3 hours 0 minutes
+Money earned:    $33.58
+Pay rate:    $11.193498316720987
+Owned:    $5861.8
+
+Sun Jul 26 14:17:38 2020
+Start time:    Sun Jul 26 14:17:38 2020
+End time:    Sun Jul 26 17:20:56 2020
+Total work time:    3 hours 3 minutes
+Money earned:    $34.2
+Pay rate:    $11.19368305301487
+Owned:    $5862.41
+
+Sun Jul 26 18:58:38 2020
+Start time:    Sun Jul 26 18:58:38 2020
+End time:    Sun Jul 26 21:23:31 2020
+Total work time:    2 hours 24 minutes
+Money earned:    $27.05
+Pay rate:    $11.201784673637677
+Owned:    $5889.46
+
+Sun Jul 26 22:38:42 2020
+Start time:    Sun Jul 26 22:38:42 2020
+End time:    Sun Jul 26 23:37:49 2020
+Total work time:    0 hours 59 minutes
+Money earned:    $11.04
+Pay rate:    $11.20509224545153
+Owned:    $5900.5
+
+Mon Jul 27 13:45:25 2020
+Start time:    Mon Jul 27 13:45:25 2020
+End time:    Mon Jul 27 22:48:36 2020
+Total work time:    9 hours 3 minutes
+Money earned:    $101.72
+Pay rate:    $11.235529085013972
+Owned:    $6002.22
+
+Mon Jul 27 23:39:58 2020
+Start time:    Mon Jul 27 23:39:58 2020
+End time:    Mon Jul 27 23:57:49 2020
+Total work time:    0 hours 17 minutes
+Money earned:    $3.34
+Pay rate:    $11.236530674969424
+Owned:    $6005.56
+
+Mon Jul 27 23:59:00 2020
+Start time:    Mon Jul 27 23:59:00 2020
+End time:    Tue Jul 28 00:15:00 2020
+Total work time:    0 hours 16 minutes
+Money earned:    $3.0
+Pay rate:    $11.237428556311054
+Owned:    $6008.56
+
+Tue Jul 28 12:00:00 2020
+Start time:    Tue Jul 28 12:00:00 2020
+End time:    Tue Jul 28 14:30:00 2020
+Total work time:    2 hours 30 minutes
+Money earned:    $28.11
+Pay rate:    $11.245849683941023
+Owned:    $6036.67
+
+Tue Jul 28 15:25:59 2020
+Start time:    Tue Jul 28 15:25:59 2020
+End time:    Tue Jul 28 15:51:43 2020
+Total work time:    0 hours 25 minutes
+Money earned:    $4.82
+Pay rate:    $11.247295336732389
+Owned:    $6041.5
+
+Tue Jul 28 17:00:00 2020
+Start time:    Tue Jul 28 17:00:00 2020
+End time:    Tue Jul 28 17:40:00 2020
+Total work time:    0 hours 40 minutes
+Money earned:    $7.5
+Pay rate:    $11.24954232518222
+Owned:    $6049.0
+
+Wed Jul 29 13:22:57 2020
+Start time:    Wed Jul 29 13:22:57 2020
+End time:    Wed Jul 29 14:29:06 2020
+Total work time:    1 hours 6 minutes
+Money earned:    $12.41
+Pay rate:    $11.253259512529997
+Owned:    $6061.4
+
+Wed Jul 29 15:44:08 2020
+Start time:    Wed Jul 29 15:44:08 2020
+End time:    Wed Jul 29 23:12:45 2020
+Total work time:    7 hours 28 minutes
+Money earned:    $84.33
+Pay rate:    $11.278499343075817
+Owned:    $6145.73
+
+Sat Aug  1 11:58:49 2020
+Start time:    Sat Aug  1 11:58:49 2020
+End time:    Sat Aug  1 16:08:26 2020
+Total work time:    4 hours 9 minutes
+Money earned:    $46.98
+Pay rate:    $11.292567635232917
+Owned:    $6192.71
+
+Sat Oct  3 16:40:40 2020
+Start time:    Sat Oct  3 16:40:40 2020
+End time:    Sat Oct  3 19:39:53 2020
+Total work time:    2 hours 59 minutes
+Money earned:    $33.76
+Pay rate:    $11.30268501040178
+Owned:    $6226.49
+
+Sun Oct  4 02:30:00 2020
+Start time:    Sun Oct  4 02:30:00 2020
+End time:    Sun Oct  4 06:30:00 2020
+Total work time:    4 hours 0 minutes
+Money earned:    $45.26
+Pay rate:    $11.316240104231948
+Owned:    $6271.76
+
+Sun Oct  4 16:33:19 2020
+Start time:    Sun Oct  4 16:33:19 2020
+End time:    Sun Oct  4 16:42:02 2020
+Total work time:    0 hours 8 minutes
+Money earned:    $1.64
+Pay rate:    $11.316732857467265
+Owned:    $6273.4
+
+Sun Oct  4 16:42:04 2020
+Start time:    Sun Oct  4 16:42:04 2020
+End time:    Sun Oct  4 18:38:02 2020
+Total work time:    1 hours 55 minutes
+Money earned:    $21.89
+Pay rate:    $11.323289205514321
+Owned:    $6295.29
+
+Sun Oct  4 21:25:29 2020
+Start time:    Sun Oct  4 21:25:29 2020
+End time:    Sun Oct  4 22:30:44 2020
+Total work time:    1 hours 5 minutes
+Money earned:    $12.32
+Pay rate:    $11.32698032121886
+Owned:    $6307.61
+
+Mon Oct  5 08:33:37 2020
+Start time:    Mon Oct  5 08:33:37 2020
+End time:    Mon Oct  5 09:22:31 2020
+Total work time:    0 hours 48 minutes
+Money earned:    $9.23
+Pay rate:    $11.329746457881887
+Owned:    $6316.84
+
+Tue Oct  6 15:00:00 2020
+Start time:    Tue Oct  6 15:00:00 2020
+End time:    Tue Oct  6 18:00:00 2020
+Total work time:    3 hours 0 minutes
+Money earned:    $34.02
+Pay rate:    $11.339935592041343
+Owned:    $6350.86
+
+Wed Oct  7 19:46:08 2020
+Start time:    Wed Oct  7 19:46:08 2020
+End time:    Wed Oct  7 22:22:14 2020
+Total work time:    2 hours 36 minutes
+Money earned:    $29.53
+Pay rate:    $11.348779244434727
+Owned:    $6380.39
+
+Wed Oct  7 23:37:56 2020
+Start time:    Wed Oct  7 23:37:56 2020
+End time:    Wed Oct  7 23:59:24 2020
+Total work time:    0 hours 21 minutes
+Money earned:    $4.06
+Pay rate:    $11.349996236112599
+Owned:    $6384.45
+
+Thu Oct  8 10:30:31 2020
+Start time:    Thu Oct  8 10:30:31 2020
+End time:    Thu Oct  8 11:22:51 2020
+Total work time:    0 hours 52 minutes
+Money earned:    $9.9
+Pay rate:    $11.35296359539167
+Owned:    $6394.35
