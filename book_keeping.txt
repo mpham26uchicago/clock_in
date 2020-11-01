@@ -2774,3 +2774,43 @@ Total work time:    0 hours 33 minutes
 Money earned:    $6.27
 Pay rate:    $11.363799323779713
 Owned:    $6430.53
+
+Thu Oct 29 13:02:17 2020
+Start time:    Thu Oct 29 13:02:17 2020
+End time:    Thu Oct 29 13:02:23 2020
+Total work time:    0 hours 0 minutes
+Money earned:    $0.02
+Pay rate:    $11.363804610269423
+Owned:    $6430.54
+
+Thu Oct 29 13:00:00 2020
+Start time:    Thu Oct 29 13:00:00 2020
+End time:    Thu Oct 29 15:00:00 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $22.74
+Pay rate:    $11.370616765157983
+Owned:    $6453.29
+
+Fri Oct 30 14:29:17 2020
+Start time:    Fri Oct 30 14:29:17 2020
+End time:    Fri Oct 30 19:38:55 2020
+Total work time:    5 hours 9 minutes
+Money earned:    $58.77
+Pay rate:    $11.388212861651967
+Owned:    $6512.06
+
+Sat Oct 31 23:00:00 2020
+Start time:    Sat Oct 31 23:00:00 2020
+End time:    Sun Nov  1 01:00:00 2020
+Total work time:    2 hours 0 minutes
+Money earned:    $22.79
+Pay rate:    $11.395039648329321
+Owned:    $6534.85
+
+Sat Oct 31 10:34:01 2020
+Start time:    Sat Oct 31 10:34:01 2020
+End time:    Sat Oct 31 19:59:14 2020
+Total work time:    9 hours 25 minutes
+Money earned:    $107.65
+Pay rate:    $11.427249408529695
+Owned:    $6642.49

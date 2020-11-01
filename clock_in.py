@@ -4,7 +4,7 @@ import tkinter as tk
 import time
 import pandas as pd
 import math
-import total_time
+# import total_time
 import manual_clock_in
 
 root = tk.Tk()
@@ -138,8 +138,8 @@ print("GUI Program stopped")
 
 time.sleep(3)
 
-print(f"\nYou worked for {round(total_time.total_work_time, 1)} hours today and made "
-      f"${round(total_time.money_made,2)}")
+''' print(f"\nYou worked for {round(total_time.total_work_time, 1)} hours today and made "
+      f"${round(total_time.money_made,2)}")'''
 
 if input("Do you want to clock in manually  ") == "yes":
     manual_clock_in.manual(input("Input Start Time   # 2020-01-01 00:00:00   (year, month, day) (hour, minutes, "
